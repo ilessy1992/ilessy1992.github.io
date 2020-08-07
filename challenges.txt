@@ -1,0 +1,36 @@
+{
+    "challenges":[
+        {
+            "challenge_name_ru": "КОНЕЦ_ЛЕТА",
+            "challenge_name_en": "END_SUMMER",
+            "tasks_ru":[
+                {
+                  "name": "Запостить в социалке что лето мы профукали лето"
+                },
+                {
+                  "name": "Купить арбуз и съесть целеком"
+                },
+                {
+                  "name": "Готовиться к 3 сентябрю"
+                },
+                {
+                  "name": "Скушать апельсин"
+                }
+            ],
+            "tasks_en":[
+                {
+                  "name": "Test message ONE"
+                },
+                {
+                  "name": "Test message two"
+                },
+                {
+                  "name": "Test message three"
+                },
+                {
+                  "name": "Test message four"
+                }
+            ]
+        }
+    ]
+}
