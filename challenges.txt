@@ -2,33 +2,101 @@
     "challenges":[
         {
             "challenge_name_ru": "КОНЕЦ_ЛЕТА",
-            "challenge_name_en": "END_SUMMER",
+            "challenge_name_en": "END_OF_SUMMER",
             "tasks_ru":[
                 {
-                  "name": "Запостить в социалке что лето мы профукали лето"
+                  "name": "Запости грустную фотку что лето кончается"
                 },
                 {
-                  "name": "Купить арбуз и съесть целеком"
+                  "name": "Съешь 25 разного вида мороженного до конца лета"
                 },
                 {
-                  "name": "Готовиться к 3 сентябрю"
+                  "name": "Подготовь летний лук: шапка, шорты, майка и бегом в магазин за мороженным"
                 },
                 {
-                  "name": "Скушать апельсин"
+                  "name": "Говори/пиши всем кто будет тебе сегодня звонить/писать \"Зима близко\""
+                },
+                {
+                  "name": "Лето не кончится. Каждый день пости какое сегодня Августа. И даже. 32,33,34,35... пока не потеплеет снова."
+                },
+                {
+                  "name": "Сделай из подручных средств пальму и сфоткайся на фоне. Запости фотку с надписью. \"Лето не кончится\""
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "Test message ONE"
+                  "name": "Post a sad photo that summer is ending"
                 },
                 {
-                  "name": "Test message two"
+                  "name": "Eat 25 different types of ice cream by the end of summer"
                 },
                 {
-                  "name": "Test message three"
+                  "name": "Prepare a summer look: hat, shorts, T-shirt and run to the ice cream store."
                 },
                 {
-                  "name": "Test message four"
+                  "name": "Tell / write to everyone who will call you / write \"Winter is coming\""
+                },
+                {
+                  "name": "Summer is not over. Every day post what August is today. And even. 32,33,34,35 ... until it gets warmer again."
+                },
+                {
+                  "name": "Make a palm tree out of handy tools and take a picture in the background. Post a photo with the inscription. \"Summer will not end\""
+                }
+            ]
+        },
+		{
+            "challenge_name_ru": "ОТМОРОЖЕННОЕ",
+            "challenge_name_en": "FROZEN",
+            "tasks_ru":[
+                {
+                  "name": "Попробуй 10 разных видов мороженного за раз. (Съешь их все)"
+                },
+				{
+                  "name": "Налей холодный сладкий чай в большую кружку. Поставь в холодильник на 2 часа и выпей!"
+                },
+				{
+                  "name": "Приготовь еды. Наложи в тарелку, пусть остывает. Остыла? Тарелку в пакет и в морозильник. Через 2 часа попробуй это съесть. (Не забудь поделиться фоткой с друзьями. Бррр)"
+                },
+				{
+                  "name": "Бургероженное/Пиццароженое. Сделай смузи из бургера/пиццы. Залей в пакет и заморозь это в морозилке. (Можешь придумать интересную форму). Приятного аппетита."
+                },
+				{
+                  "name": "Налей холодный сладкий кофе или какао в большую кружку. Заморозь до состояния льда. Кофероженное/какаороженное готово!"
+                },
+                {
+                  "name": "Заморозь бананы в морозильной камере. Достань и попробуй их на вкус."
+                },
+				{
+                  "name": "Возьми сливки, сахар, ваниль (или шоколад по вкусу) взбей до состояния крема. Залей в кружку и попробуй эту гадость."
+                },
+                {
+                  "name": "Возьми сок. Сделай из них кубики льда. (можно произвольной формы) Раскроши лёд, добавь взбитые сливки и съешь."
+                }
+            ],
+            "tasks_en":[
+                {
+                  "name": "Try 10 different types of ice cream at a time. (Eat them all)"
+                },
+                {
+                  "name": "Pour iced sweet tea into a large mug. Refrigerate for 2 hours and drink!"
+                },
+                {
+                  "name": "Prepare food. Put on a plate, let it cool. Has it cooled down? A plate in a bag and in a freezer. Wait 2 hours and eat. (Don't forget to share the photo with your friends. Brrr)"
+                },
+                {
+                  "name": "Burger / Pizza ice cream. Make a burger / pizza smoothie. Pour it into a bag and freeze it in the freezer. (You can think of an interesting shape). Enjoy your meal."
+                },
+                {
+                  "name": "Pour cold sweet coffee or cocoa into a large mug. Freeze to ice. Cofe / cocoa ice cream is ready!"
+                },
+                {
+                  "name": "Freeze bananas in the freezer. Get them out and taste them."
+                },
+                {
+                  "name": "Take cream, sugar, vanilla (or chocolate to taste), beat until creamy. Pour in a mug and taste this nasty stuff."
+                },
+                {
+                  "name": "Take the juice. Make ice cubes out of them. (can be of any shape) Crumble the ice, add whipped cream and eat."
                 }
             ]
         }
