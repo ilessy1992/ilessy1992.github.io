@@ -1,102 +1,194 @@
 {
     "challenges":[
         {
-            "challenge_name_ru": "КОНЕЦ_ЛЕТА",
-            "challenge_name_en": "END_OF_SUMMER",
+            "challenge_name_ru": "ТАНЦУЕМ_И_ПОЕМ",
+            "challenge_name_en": "DANCE_SONG",
             "tasks_ru":[
                 {
-                  "name": "Запости грустную фотку что лето кончается"
+                  "name": "спой песню на иностранном языке"
                 },
                 {
-                  "name": "Съешь 25 разного вида мороженного до конца лета"
+                  "name": "включи на самую большую громкость любимую песню и подпевай"
                 },
                 {
-                  "name": "Подготовь летний лук: шапка, шорты, майка и бегом в магазин за мороженным"
+                  "name": "включи любой клип который идет по тв и подтанцовывай"
                 },
                 {
-                  "name": "Говори/пиши всем кто будет тебе сегодня звонить/писать \"Зима близко\""
+                  "name": "станцуй на одной ноге подпрыгивая в темп музыки"
                 },
                 {
-                  "name": "Лето не кончится. Каждый день пости какое сегодня Августа. И даже. 32,33,34,35... пока не потеплеет снова."
+                  "name": "выйди на улицу, включи музыку и потанцуй на свежем воздухе"
                 },
                 {
-                  "name": "Сделай из подручных средств пальму и сфоткайся на фоне. Запости фотку с надписью. \"Лето не кончится\""
+                  "name": "обязательно возьми друзей и отправляйся в караоке"
+                },
+                {
+                  "name": "сходи в клуб и танцуй под музыку"
+                },
+                {
+                  "name": "придумай танец и запусти челлендж в социальной сети"
+                },
+                {
+                  "name": "придумай песню про любимый фрукт спой на видео и выложи в социальную сеть"
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "Post a sad photo that summer is ending"
+                  "name": "sing a song in a foreign language"
                 },
                 {
-                  "name": "Eat 25 different types of ice cream by the end of summer"
+                  "name": "turn on your favorite song at the highest volume and sing along"
                 },
                 {
-                  "name": "Prepare a summer look: hat, shorts, T-shirt and run to the ice cream store."
+                  "name": "turn on any clip that goes on TV and dance"
                 },
                 {
-                  "name": "Tell / write to everyone who will call you / write \"Winter is coming\""
+                  "name": "dance on one leg bouncing to the tempo of the music"
                 },
                 {
-                  "name": "Summer is not over. Every day post what August is today. And even. 32,33,34,35 ... until it gets warmer again."
+                  "name": "go outside, turn on the music and dance in the fresh air"
                 },
                 {
-                  "name": "Make a palm tree out of handy tools and take a picture in the background. Post a photo with the inscription. \"Summer will not end\""
+                  "name": "be sure to take friends and go to karaoke"
+                },
+                {
+                  "name": "go to the club and dance to the music"
+                },
+                {
+                  "name": "come up with a dance and launch a challenge on the social network"
+                },
+                {
+                  "name": "come up with a song about your favorite fruit, sing on the video and post it on the social network"
                 }
             ]
         },
 		{
-            "challenge_name_ru": "ОТМОРОЖЕННОЕ",
-            "challenge_name_en": "FROZEN",
+            "challenge_name_ru": "ПИЦЦА_ПИЦЦА_НЯМ_НЯМ",
+            "challenge_name_en": "PIZZA_PIZZA_YAMI_YAMI",
             "tasks_ru":[
                 {
-                  "name": "Попробуй 10 разных видов мороженного за раз. (Съешь их все)"
+                  "name": "испеки сладкую пиццу из йогурта бананов шоколада и мармелада"
                 },
 				{
-                  "name": "Налей холодный сладкий чай в большую кружку. Поставь в холодильник на 2 часа и выпей!"
+                  "name": "испеки пиццу из перчиков халапенью, охотничьих колбасок и сыра"
                 },
 				{
-                  "name": "Приготовь еды. Наложи в тарелку, пусть остывает. Остыла? Тарелку в пакет и в морозильник. Через 2 часа попробуй это съесть. (Не забудь поделиться фоткой с друзьями. Бррр)"
+                  "name": "закажи пиццу лучшему другу (подруге) оплати, и вперед! В гости кушать пиццу!"
                 },
 				{
-                  "name": "Бургероженное/Пиццароженое. Сделай смузи из бургера/пиццы. Залей в пакет и заморозь это в морозилке. (Можешь придумать интересную форму). Приятного аппетита."
+                  "name": "закажи самую нелюбимую пиццу и съешь её полностью О_О"
                 },
 				{
-                  "name": "Налей холодный сладкий кофе или какао в большую кружку. Заморозь до состояния льда. Кофероженное/какаороженное готово!"
+                  "name": "сходи в магазин купи "замароженную" пиццу, и приготовь в духовке."
                 },
                 {
-                  "name": "Заморозь бананы в морозильной камере. Достань и попробуй их на вкус."
+                  "name": "пицца? возьми ломтики хлеба, намажь их соусом, положи сверху колбасу, ломтик сыра и в микроволновку на 1-2 минуты."
                 },
 				{
-                  "name": "Возьми сливки, сахар, ваниль (или шоколад по вкусу) взбей до состояния крема. Залей в кружку и попробуй эту гадость."
+                  "name": "испеки маленькие пиццы небольшого диаметра"
                 },
                 {
-                  "name": "Возьми сок. Сделай из них кубики льда. (можно произвольной формы) Раскроши лёд, добавь взбитые сливки и съешь."
+                  "name": "испеки пиццу из того, что найдешь в холодильнике"
+                },
+                {
+                  "name": "возьми морковь, натри на терке, помажь корж для пиццы медом, добавь морковь и посыпь сверху моцареллой. Бр...расскажи всем вкусно это или нет?"
+                },
+                {
+                  "name": "пицца? возьми 4 яйца, отдели желток и белок. смешай белок с молоком. Взбей желток с сыром. Жарь колбасу на сковороде, потом добавь белок, подожди пока по схватиться. Залей сверху желтком и накрой крышкой. Немного подожди. Ничем не хуже пиццы =) А главное сытно - вкусно и аппетитно."
+                },
+                {
+                  "name": "купи в магазине тортилью и используй её как основу для пиццы"
+                },
+                {
+                  "name": "испеки блины, намажь их соусом, добавь любимых ингридиентов. Заверни блинчики и наслаждайся."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "Try 10 different types of ice cream at a time. (Eat them all)"
+                  "name": "bake a sweet pizza with yogurt bananas, chocolate and marmalade"
                 },
                 {
-                  "name": "Pour iced sweet tea into a large mug. Refrigerate for 2 hours and drink!"
+                  "name": "bake a pizza with jalapena peppers, hunting sausages and cheese"
                 },
                 {
-                  "name": "Prepare food. Put on a plate, let it cool. Has it cooled down? A plate in a bag and in a freezer. Wait 2 hours and eat. (Don't forget to share the photo with your friends. Brrr)"
+                  "name": "order pizza to your best friend (girlfriend), pay, and go! On a visit to eat pizza!"
                 },
                 {
-                  "name": "Burger / Pizza ice cream. Make a burger / pizza smoothie. Pour it into a bag and freeze it in the freezer. (You can think of an interesting shape). Enjoy your meal."
+                  "name": "order your least favorite pizza and eat it completely O_O"
                 },
                 {
-                  "name": "Pour cold sweet coffee or cocoa into a large mug. Freeze to ice. Cofe / cocoa ice cream is ready!"
+                  "name": "go to the store to buy a "frozen" pizza and cook it in the oven."
                 },
                 {
-                  "name": "Freeze bananas in the freezer. Get them out and taste them."
+                  "name": "pizza? take slices of bread, spread them with sauce, put sausage, a slice of cheese on top and in the microwave for 1-2 minutes."
                 },
                 {
-                  "name": "Take cream, sugar, vanilla (or chocolate to taste), beat until creamy. Pour in a mug and taste this nasty stuff."
+                  "name": "bake small pizzas of small diameter"
                 },
                 {
-                  "name": "Take the juice. Make ice cubes out of them. (can be of any shape) Crumble the ice, add whipped cream and eat."
+                  "name": "bake pizza from what you find in the fridge"
+                },
+                {
+                  "name": "take carrots, grate, anoint the pizza crust with honey, add carrots and sprinkle with mozzarella on top. Br ... tell everyone is it tasty or not?"
+                },
+                {
+                  "name": "pizza? take 4 eggs, separate the yolk and white. mix protein with milk. Whisk the yolk with the cheese. Fry the sausage in a pan, then add the protein, wait until grabbing. Pour the yolk on top and cover. Wait a little bit. Nothing worse than pizza =) And most importantly satisfying - tasty and appetizing."
+                },
+                {
+                  "name": "buy a tortilla in the store and use it as a base for pizza"
+                },
+                {
+                  "name": "bake pancakes, spread them with sauce, add your favorite ingredients. Roll up the pancakes and enjoy."
+                }
+            ]
+        },
+		{
+            "challenge_name_ru": "ИНТЕРНЕТ_ПЕРЕОДЕВАШКИ",
+            "challenge_name_en": "SOCIAL_POST",
+            "tasks_ru":[
+                {
+                  "name": "переоденься в бабушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
+                },
+				{
+                  "name": "переоденься в дедушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
+                },
+				{
+                  "name": "приклей себе усы. Даже если они у тебя есть приклей усы поверх усов. Главное чтобы их было много. Сфоткайся так и зарепости в социальной сети."
+                },
+				{
+                  "name": "прямо поверх штанов надень трусы, а поверх кофты надень майку. Селфи с подписью - я человек супертрусымайка выложи в социальную сеть"
+                },
+				{
+                  "name": "возьми туалетную бумагу обматайся ей как мумия. Выйди на улицу. Сделай селфи и вышли в социальную сеть"
+                },
+                {
+                  "name": "возьми скотч и обматай лицо (только аккуратно) сделай селфи с улыбкой на лице. Репост в социальную сеть."
+                },
+				{
+                  "name": "переоденься в зомби, и запиши видео на котором ты говоришь только одно "мозгииии" выложи видео в социальную сеть."
+                }
+            ],
+            "tasks_en":[
+                {
+                  "name": "change into your grandmother, go outside, take a picture and post it on the social network."
+                },
+                {
+                  "name": "change into your grandfather, go outside, take a picture and post it on the social network."
+                },
+                {
+                  "name": "Glue yourself a mustache. Even if you have them glue the mustache over the mustache. The main thing is that there are a lot of them. Take a picture and get on the social network."
+                },
+                {
+                  "name": "put on underpants directly over the pants, and put on a T-shirt over the sweater. Selfie with a signature - I'm a super-cute man, post it on a social network."
+                },
+                {
+                  "name": "take toilet paper and wrap it like a mummy. Get outside. Take a selfie and repost to a social network."
+                },
+                {
+                  "name": "take scotch tape and wrap your face (only gently) and take a selfie with a smile on your face. Repost to a social network."
+                },
+                {
+                  "name": "dress up as a zombie, and record a video in which you say only one "braaaaain" and upload the video to the social network."
                 }
             ]
         }
