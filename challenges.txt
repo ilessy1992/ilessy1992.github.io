@@ -79,7 +79,7 @@
                   "name": "закажи самую нелюбимую пиццу и съешь её полностью О_О"
                 },
 				{
-                  "name": "сходи в магазин купи "замароженную" пиццу, и приготовь в духовке."
+                  "name": "сходи в магазин купи \"замороженную\" пиццу, и приготовь в духовке."
                 },
                 {
                   "name": "пицца? возьми ломтики хлеба, намажь их соусом, положи сверху колбасу, ломтик сыра и в микроволновку на 1-2 минуты."
@@ -117,7 +117,7 @@
                   "name": "order your least favorite pizza and eat it completely O_O"
                 },
                 {
-                  "name": "go to the store to buy a "frozen" pizza and cook it in the oven."
+                  "name": "go to the store to buy a \"frozen\" pizza and cook it in the oven."
                 },
                 {
                   "name": "pizza? take slices of bread, spread them with sauce, put sausage, a slice of cheese on top and in the microwave for 1-2 minutes."
@@ -144,7 +144,7 @@
         },
 		{
             "challenge_name_ru": "ИНТЕРНЕТ_ПЕРЕОДЕВАШКИ",
-            "challenge_name_en": "SOCIAL_POST",
+            "challenge_name_en": "PIZZA_PIZZA_YAMI_YAMI",
             "tasks_ru":[
                 {
                   "name": "переоденься в бабушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
