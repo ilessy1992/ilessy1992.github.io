@@ -165,7 +165,7 @@
                   "name": "возьми скотч и обматай лицо (только аккуратно) сделай селфи с улыбкой на лице. Репост в социальную сеть."
                 },
 				{
-                  "name": "переоденься в зомби, и запиши видео на котором ты говоришь только одно "мозгииии" выложи видео в социальную сеть."
+                  "name": "переоденься в зомби, и запиши видео на котором ты говоришь только одно \"мозгииии\" выложи видео в социальную сеть."
                 }
             ],
             "tasks_en":[
@@ -188,7 +188,7 @@
                   "name": "take scotch tape and wrap your face (only gently) and take a selfie with a smile on your face. Repost to a social network."
                 },
                 {
-                  "name": "dress up as a zombie, and record a video in which you say only one "braaaaain" and upload the video to the social network."
+                  "name": "dress up as a zombie, and record a video in which you say only one \"braaaaain\" and upload the video to the social network."
                 }
             ]
         }
