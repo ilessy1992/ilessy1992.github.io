@@ -1,194 +1,250 @@
 {
     "challenges":[
         {
-            "challenge_name_ru": "ТАНЦУЕМ_И_ПОЕМ",
-            "challenge_name_en": "DANCE_SONG",
+            "challenge_name_ru": "ХЭЛЛУИНСКАЯ КУХНЯ",
+            "challenge_name_en": "HALLOWEEN KITCHEN",
             "tasks_ru":[
                 {
-                  "name": "спой песню на иностранном языке"
+                  "name": "испечь пиццу с острым томатным соусом, острым перцем и острыми колбасками (осторожнее! будет остро)"
                 },
                 {
-                  "name": "включи на самую большую громкость любимую песню и подпевай"
+                  "name": "сделай безалкогольный коктейль Кровавая Мэри"
                 },
                 {
-                  "name": "включи любой клип который идет по тв и подтанцовывай"
+                  "name": "приготовь тыквенный суп пюре"
                 },
                 {
-                  "name": "станцуй на одной ноге подпрыгивая в темп музыки"
+                  "name": "приготовь большой тыквенный пирог"
                 },
                 {
-                  "name": "выйди на улицу, включи музыку и потанцуй на свежем воздухе"
+                  "name": "сделай сладкие кексики в виде привидений"
                 },
                 {
-                  "name": "обязательно возьми друзей и отправляйся в караоке"
+                  "name": "приготовь томатный суп. Пусти больше томатной пасты чтобы было максимально жутко"
                 },
                 {
-                  "name": "сходи в клуб и танцуй под музыку"
+                  "name": "сделай сладкий клубничный (вишневый) пирог."
                 },
                 {
-                  "name": "придумай танец и запусти челлендж в социальной сети"
+                  "name": "свари вишневый компот"
                 },
                 {
-                  "name": "придумай песню про любимый фрукт спой на видео и выложи в социальную сеть"
+                  "name": "сделай страшно вкусные сандвичи, укрась их помидорами и оливками(сделай глазики)"
+                },
+                {
+                  "name": "свари яйца в крутую, сделай им глаза и рот. Покрась небольшим количеством томатной пасты"
+                },
+                {
+                  "name": "поджарь хлеб, натри чесноком и помажь острым соусом"
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "sing a song in a foreign language"
+                  "name": "bake pizza with spicy tomato sauce, hot peppers and spicy sausages (be careful! it will be spicy)"
                 },
                 {
-                  "name": "turn on your favorite song at the highest volume and sing along"
+                  "name": "make a non-alcoholic cocktail Bloody Mary"
                 },
                 {
-                  "name": "turn on any clip that goes on TV and dance"
+                  "name": "make pumpkin cream soup"
                 },
                 {
-                  "name": "dance on one leg bouncing to the tempo of the music"
+                  "name": "make a big pumpkin pie"
                 },
                 {
-                  "name": "go outside, turn on the music and dance in the fresh air"
+                  "name": "make sweet ghost cupcakes"
                 },
                 {
-                  "name": "be sure to take friends and go to karaoke"
+                  "name": "make tomato soup. Use more tomato paste to make it as creepy as possible"
                 },
                 {
-                  "name": "go to the club and dance to the music"
+                  "name": "make a sweet strawberry (cherry) pie."
                 },
                 {
-                  "name": "come up with a dance and launch a challenge on the social network"
+                  "name": "boil cherry compote"
                 },
                 {
-                  "name": "come up with a song about your favorite fruit, sing on the video and post it on the social network"
+                  "name": "make scary tasty sandwiches, garnish with tomatoes and olives (make eyes)"
+                },
+                {
+                  "name": "boil eggs hard, make them eyes and mouth. Paint with a little tomato paste"
+                },
+                {
+                  "name": "toast the bread, rub with garlic and anoint with hot sauce"
                 }
             ]
         },
 		{
-            "challenge_name_ru": "ПИЦЦА_ПИЦЦА_НЯМ_НЯМ",
-            "challenge_name_en": "PIZZA_PIZZA_YAMI_YAMI",
+            "challenge_name_ru": "КОШЕЛЕК ИЛИ КОНФЕТЫ",
+            "challenge_name_en": "PURSE OR CANDIES",
             "tasks_ru":[
                 {
-                  "name": "испеки сладкую пиццу из йогурта бананов шоколада и мармелада"
+                  "name": "кошелек"
                 },
 				{
-                  "name": "испеки пиццу из перчиков халапенью, охотничьих колбасок и сыра"
-                },
-				{
-                  "name": "закажи пиццу лучшему другу (подруге) оплати, и вперед! В гости кушать пиццу!"
-                },
-				{
-                  "name": "закажи самую нелюбимую пиццу и съешь её полностью О_О"
-                },
-				{
-                  "name": "сходи в магазин купи \"замороженную\" пиццу, и приготовь в духовке."
-                },
-                {
-                  "name": "пицца? возьми ломтики хлеба, намажь их соусом, положи сверху колбасу, ломтик сыра и в микроволновку на 1-2 минуты."
-                },
-				{
-                  "name": "испеки маленькие пиццы небольшого диаметра"
-                },
-                {
-                  "name": "испеки пиццу из того, что найдешь в холодильнике"
-                },
-                {
-                  "name": "возьми морковь, натри на терке, помажь корж для пиццы медом, добавь морковь и посыпь сверху моцареллой. Бр...расскажи всем вкусно это или нет?"
-                },
-                {
-                  "name": "пицца? возьми 4 яйца, отдели желток и белок. смешай белок с молоком. Взбей желток с сыром. Жарь колбасу на сковороде, потом добавь белок, подожди пока по схватиться. Залей сверху желтком и накрой крышкой. Немного подожди. Ничем не хуже пиццы =) А главное сытно - вкусно и аппетитно."
-                },
-                {
-                  "name": "купи в магазине тортилью и используй её как основу для пиццы"
-                },
-                {
-                  "name": "испеки блины, намажь их соусом, добавь любимых ингридиентов. Заверни блинчики и наслаждайся."
+                  "name": "конфеты"
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "bake a sweet pizza with yogurt bananas, chocolate and marmalade"
+                  "name": "purse"
                 },
                 {
-                  "name": "bake a pizza with jalapena peppers, hunting sausages and cheese"
-                },
-                {
-                  "name": "order pizza to your best friend (girlfriend), pay, and go! On a visit to eat pizza!"
-                },
-                {
-                  "name": "order your least favorite pizza and eat it completely O_O"
-                },
-                {
-                  "name": "go to the store to buy a \"frozen\" pizza and cook it in the oven."
-                },
-                {
-                  "name": "pizza? take slices of bread, spread them with sauce, put sausage, a slice of cheese on top and in the microwave for 1-2 minutes."
-                },
-                {
-                  "name": "bake small pizzas of small diameter"
-                },
-                {
-                  "name": "bake pizza from what you find in the fridge"
-                },
-                {
-                  "name": "take carrots, grate, anoint the pizza crust with honey, add carrots and sprinkle with mozzarella on top. Br ... tell everyone is it tasty or not?"
-                },
-                {
-                  "name": "pizza? take 4 eggs, separate the yolk and white. mix protein with milk. Whisk the yolk with the cheese. Fry the sausage in a pan, then add the protein, wait until grabbing. Pour the yolk on top and cover. Wait a little bit. Nothing worse than pizza =) And most importantly satisfying - tasty and appetizing."
-                },
-                {
-                  "name": "buy a tortilla in the store and use it as a base for pizza"
-                },
-                {
-                  "name": "bake pancakes, spread them with sauce, add your favorite ingredients. Roll up the pancakes and enjoy."
+                  "name": "candies"
                 }
             ]
         },
 		{
-            "challenge_name_ru": "ИНТЕРНЕТ_ПЕРЕОДЕВАШКИ",
-            "challenge_name_en": "PIZZA_PIZZA_YAMI_YAMI",
+            "challenge_name_ru": "КОСТЮМ",
+            "challenge_name_en": "COSTUME",
             "tasks_ru":[
                 {
-                  "name": "переоденься в бабушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
+                  "name": "одень костюм в стиле игры Among US (SHHHHHH!) зарепости в социальные сети"
                 },
 				{
-                  "name": "переоденься в дедушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
+                  "name": "сделай костюм в виде привидения, одень и зарепости фото в социальные сети"
                 },
 				{
-                  "name": "приклей себе усы. Даже если они у тебя есть приклей усы поверх усов. Главное чтобы их было много. Сфоткайся так и зарепости в социальной сети."
+                  "name": "выбери маску из любимого фильма ужасов, оденься как персонаж и зарепости фотку в социальные сети"
                 },
 				{
-                  "name": "прямо поверх штанов надень трусы, а поверх кофты надень майку. Селфи с подписью - я человек супертрусымайка выложи в социальную сеть"
+                  "name": "оденься в хэллуинский костюм и сходи в гости к друзьям (не забудь у них спросить про кошелек или конфеты)"
                 },
 				{
-                  "name": "возьми туалетную бумагу обматайся ей как мумия. Выйди на улицу. Сделай селфи и вышли в социальную сеть"
-                },
-                {
-                  "name": "возьми скотч и обматай лицо (только аккуратно) сделай селфи с улыбкой на лице. Репост в социальную сеть."
+                  "name": "оденься в костюм тыквы, разукрась лицо в оранжевый цвет позвони по видеосвязи лучшему другу и поздравь его с праздником"
                 },
 				{
-                  "name": "переоденься в зомби, и запиши видео на котором ты говоришь только одно \"мозгииии\" выложи видео в социальную сеть."
+                  "name": "оденься в стиле Зомби. Запиши видео и выложи в социальные сети. Не забудь произносить при этом \"Мозгиииии....\""
+                },
+				{
+                  "name": "оденься как вампир (не забудь про клыки) - круто будет украсить клыки красной краской (пищевой). Сделай крутое фото."
+                },
+				{
+                  "name": "обменяйтесь идеями с друзьями во что одеться на хэллуин."
+                },
+				{
+                  "name": "оденься в костюм древней мумии. используй тряпки или туалетную бумагу, сфоткайся и зарепости в социальные сети"
+                },
+				{
+                  "name": "оденься в клоуна и сфотографируйся с безумно красивой улыбкой"
+                },
+				{
+                  "name": "оденься в стиле персонажа любимого фильма"
+                },
+				{
+                  "name": "оденься в стиле безумного колдуна или ведьмы, не забудь использовать заклинание (кошелек или конфеты)"
+                },
+				{
+                  "name": "сделай себе жутко ужасный и реалистичный грим"
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "change into your grandmother, go outside, take a picture and post it on the social network."
+                  "name": "dress up a suit in the style of the game Among US (SHHHHHH!)"
                 },
                 {
-                  "name": "change into your grandfather, go outside, take a picture and post it on the social network."
+                  "name": "make a costume in the form of a ghost, dress and send photos in social networks"
                 },
                 {
-                  "name": "Glue yourself a mustache. Even if you have them glue the mustache over the mustache. The main thing is that there are a lot of them. Take a picture and get on the social network."
+                  "name": "choose a mask from your favorite horror movie, dress up as a character and send photos in social networks"
                 },
                 {
-                  "name": "put on underpants directly over the pants, and put on a T-shirt over the sweater. Selfie with a signature - I'm a super-cute man, post it on a social network."
+                  "name": "dress up in a Halloween costume and visit your friends (don't forget to ask them about a PURSE OR CANDIES)"
                 },
                 {
-                  "name": "take toilet paper and wrap it like a mummy. Get outside. Take a selfie and repost to a social network."
+                  "name": "dress up in a pumpkin costume, paint your face orange, call your best friend via video link and congratulate him on the halloween"
                 },
                 {
-                  "name": "take scotch tape and wrap your face (only gently) and take a selfie with a smile on your face. Repost to a social network."
+                  "name": "dress up in zombie style. Record a video and post it on social media. Remember to say \"braiiiiiiiiin .... \""
                 },
                 {
-                  "name": "dress up as a zombie, and record a video in which you say only one \"braaaaain\" and upload the video to the social network."
+                  "name": "dress like a vampire (don't forget about the fangs) - it will be cool to decorate the fangs with red paint. Take a cool photo."
+                },
+                {
+                  "name": "exchange ideas with your friends what to dress for halloween."
+                },
+                {
+                  "name": "dress up as an ancient mummy. use rags or toilet paper, take a picture and post to social media"
+                },
+                {
+                  "name": "dress up as a clown and take a picture with an insanely beautiful smile"
+                },
+                {
+                  "name": "dress in the style of your favorite movie character"
+                },
+                {
+                  "name": "dress up like a mad sorcerer or witch, don't forget to use a spell (PURSE OR CANDIES)"
+                },
+                {
+                  "name": "make yourself creepy awful and realistic makeup"
+                }
+            ]
+        },
+		{
+            "challenge_name_ru": "ХЭЛЛУИНСКИЙ ДОСУГ",
+            "challenge_name_en": "HALLOWEEN ACT",
+            "tasks_ru":[
+                {
+                  "name": "посмотри фильм ужасов один или в компании друзей в полной темноте, тишине, с коктейлями и хэллуинской едой"
+                },
+				{
+                  "name": "сделай из тыквы хэллуинские фонари, сделай селфи и выложи в социальные сети"
+                },
+				{
+                  "name": "в хэллуинском образе позвони по видео всем своим друзьям и спроси (кошелек или конфеты)"
+                },
+				{
+                  "name": "измени свой голос и позвони лучшему другу с незнакомого номера, узнает ли он тебя?"
+                },
+				{
+                  "name": "устрой вечеринку с мумиями. Оденься сам как мумия и пусть все друзья оденутся в мумию тоже (можно использовать туалетную бумагу)"
+                },
+				{
+                  "name": "соберитесь с друзьями выключите свет. Дождитесь полной темноты. Зажгите свечку (можно фонарик - так безопаснее) и рассказывайте жуткие истории."
+                },
+				{
+                  "name": "пригласи в гости своих друзей и предложи отметить хэллуин вместе"
+                },
+				{
+                  "name": "запиши на диктофон странные звуки. Поставь на будильник и спрячь телефон. Соберись с друзьями и в полной темноте вызовите \"дух будильника\"(придумай оригинальное название)."
+                },
+				{
+                  "name": "сходи в магазин и купи тыкву, принеси домой, сделай из нее тыквенную маску. Станцуй и выложи видео в социальные сети."
+                },
+				{
+                  "name": "соберись с друзьями и сделайте хэллуинский гарлем шейк, выложи видео на ютуб "
+                }
+            ],
+            "tasks_en":[
+                {
+                  "name": "watch a horror movie alone or with friends in complete darkness, silence, with cocktails and Halloween food"
+                },
+                {
+                  "name": "make Halloween lanterns out of pumpkin, take a selfie and share on social networks"
+                },
+                {
+                  "name": "in a Halloween look, call all your friends on the video and ask (PURSE OR CANDIES)"
+                },
+                {
+                  "name": "change your voice and call your best friend from an unfamiliar number, will he recognize you?"
+                },
+                {
+                  "name": "Throw a mummy party. Dress yourself as a mummy and have all your friends dress up as a mummy too (you can use toilet paper)"
+                },
+                {
+                  "name": "get together with your friends turn off the lights. Wait for complete darkness. Light a candle (you can use a flashlight - it's safer) and tell creepy stories."
+                },
+                {
+                  "name": "invite your friends and celebrate halloween together"
+                },
+                {
+                  "name": "record strange sounds on the recorder. Put on the alarm and hide the phone. Get together with your friends and, in complete darkness, call the \"spirit of the alarm clock\" (set the original name)."
+                },
+                {
+                  "name": "go to the store and buy a pumpkin, bring it home, make a pumpkin mask out of it. Dance and share your videos on social networks."
+                },
+                {
+                  "name": "get together with your friends and make a halloween harlem shake, put the video on youtube"
                 }
             ]
         }
