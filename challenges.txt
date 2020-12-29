@@ -1,194 +1,610 @@
 {
     "challenges":[
         {
-            "challenge_name_ru": "ТАНЦУЕМ_И_ПОЕМ",
-            "challenge_name_en": "DANCE_SONG",
+            "challenge_name_ru": "СНЕЖНЫЕ_УЛИЧНЫЕ_ИГРЫ",
+            "challenge_name_en": "SHOW_STREET_GAMES",
             "tasks_ru":[
                 {
-                  "name": "спой песню на иностранном языке"
+                  "name": "Слепи модного снеговика (укрась его на свой вкус) сделай с ним селфи и выложи в соцсети."
                 },
                 {
-                  "name": "включи на самую большую громкость любимую песню и подпевай"
+                  "name": "Позови всех своих друзей на улицу играть в догонялки со снежками."
                 },
                 {
-                  "name": "включи любой клип который идет по тв и подтанцовывай"
+                  "name": "Слепите снеговика. Отсчитайте от него примерно 10 метров. Лепите снежки и кидайте в снеговика. Выигрывает тот - у кого больше снежков попадет в снеговика."
                 },
                 {
-                  "name": "станцуй на одной ноге подпрыгивая в темп музыки"
+                  "name": "Прокатись на зимней горке и обязательно позови друзей с собой."
                 },
                 {
-                  "name": "выйди на улицу, включи музыку и потанцуй на свежем воздухе"
+                  "name": "Соберитесь с друзьями и сыграйте в царь горы. Будьте осторожнее. Игра травмоопасна."
                 },
                 {
-                  "name": "обязательно возьми друзей и отправляйся в караоке"
+                  "name": "Собери друзей, разделитесь на две команды и сыграйте в зимний футбол."
                 },
                 {
-                  "name": "сходи в клуб и танцуй под музыку"
+                  "name": "Возьми с собой друзей и сходи покатайся на каток."
                 },
                 {
-                  "name": "придумай танец и запусти челлендж в социальной сети"
-                },
-                {
-                  "name": "придумай песню про любимый фрукт спой на видео и выложи в социальную сеть"
+                  "name": "Устрой соревнования с друзьями. Кто слепит самого большого снеговика."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "sing a song in a foreign language"
+                  "name": "Make a fashionable snowman (decorate it to your liking), take a selfie with him and post on social networks."
                 },
                 {
-                  "name": "turn on your favorite song at the highest volume and sing along"
+                  "name": "Call all your friends outside to play catch-up with snowballs."
                 },
                 {
-                  "name": "turn on any clip that goes on TV and dance"
+                  "name": "Make the snowman. Take 15 steps back. Make the snowballs and throw them at the snowman. The winner is the one with the most snowballs hitting the snowman."
                 },
                 {
-                  "name": "dance on one leg bouncing to the tempo of the music"
+                  "name": "Take a ride on the winter slide and be sure to invite your friends with you."
                 },
                 {
-                  "name": "go outside, turn on the music and dance in the fresh air"
+                  "name": "Get together with your friends and play the king of the hill. Be careful. The game is traumatic."
                 },
                 {
-                  "name": "be sure to take friends and go to karaoke"
+                  "name": "Gather your friends, split into two teams and play winter football."
                 },
                 {
-                  "name": "go to the club and dance to the music"
+                  "name": "Take your friends with you and go go skating."
                 },
                 {
-                  "name": "come up with a dance and launch a challenge on the social network"
-                },
-                {
-                  "name": "come up with a song about your favorite fruit, sing on the video and post it on the social network"
+                  "name": "Arrange competitions with your friends. Who blinds the biggest snowman."
                 }
             ]
         },
 		{
-            "challenge_name_ru": "ПИЦЦА_ПИЦЦА_НЯМ_НЯМ",
-            "challenge_name_en": "PIZZA_PIZZA_YAMI_YAMI",
+            "challenge_name_ru": "НОВОГОДНЕЕ_ПРЕДСКАЗАНИЕ",
+            "challenge_name_en": "NEW_YEAR_PREDICTIONS",
             "tasks_ru":[
                 {
-                  "name": "испеки сладкую пиццу из йогурта бананов шоколада и мармелада"
-                },
-				{
-                  "name": "испеки пиццу из перчиков халапенью, охотничьих колбасок и сыра"
-                },
-				{
-                  "name": "закажи пиццу лучшему другу (подруге) оплати, и вперед! В гости кушать пиццу!"
-                },
-				{
-                  "name": "закажи самую нелюбимую пиццу и съешь её полностью О_О"
-                },
-				{
-                  "name": "сходи в магазин купи \"замороженную\" пиццу, и приготовь в духовке."
+                  "name": "Счастье уже стоит за дверью."
                 },
                 {
-                  "name": "пицца? возьми ломтики хлеба, намажь их соусом, положи сверху колбасу, ломтик сыра и в микроволновку на 1-2 минуты."
-                },
-				{
-                  "name": "испеки маленькие пиццы небольшого диаметра"
+                  "name": "Будьте внимательны к своему здоровью."
                 },
                 {
-                  "name": "испеки пиццу из того, что найдешь в холодильнике"
+                  "name": "Прислушайтесь к советам интуиции. "
                 },
                 {
-                  "name": "возьми морковь, натри на терке, помажь корж для пиццы медом, добавь морковь и посыпь сверху моцареллой. Бр...расскажи всем вкусно это или нет?"
+                  "name": "Люди, что сейчас рядом, будут помогать весь год."
                 },
                 {
-                  "name": "пицца? возьми 4 яйца, отдели желток и белок. смешай белок с молоком. Взбей желток с сыром. Жарь колбасу на сковороде, потом добавь белок, подожди пока по схватиться. Залей сверху желтком и накрой крышкой. Немного подожди. Ничем не хуже пиццы =) А главное сытно - вкусно и аппетитно."
+                  "name": "Нужная встреча произойдет совсем скоро."
                 },
                 {
-                  "name": "купи в магазине тортилью и используй её как основу для пиццы"
+                  "name": "Любовь улыбается и ждет своего часа."
                 },
                 {
-                  "name": "испеки блины, намажь их соусом, добавь любимых ингридиентов. Заверни блинчики и наслаждайся."
+                  "name": "Везение в денежных вопросах."
+                },
+                {
+                  "name": "Удача в любом начинании."
+                },
+                {
+                  "name": "Счастье где-то рядом, обернитесь вокруг."
+                },
+                {
+                  "name": "Год слёз, но только от радости."
+                },
+                {
+                  "name": "Вас ожидает поездка в новую страну."
+                },
+                {
+                  "name": "Этот год кардинально изменит Вашу жизнь."
+                },
+                {
+                  "name": "Возможно пополнение в семье в этом году."
+                },
+                {
+                  "name": "Карьерный рост будет стремителен и успешен."
+                },
+                {
+                  "name": "Мир и покой в семье весь год."
+                },
+                {
+                  "name": "Романтическое свидание поможет найти взаимные чувства."
+                },
+                {
+                  "name": "Любое дело обречено на успех."
+                },
+                {
+                  "name": "Путешествие для души подарит необходимый отдых и новые впечатления."
+                },
+                {
+                  "name": "Откройте сердце любви в этом году."
+                },
+                {
+                  "name": "Семья подарит настоящую поддержку."
+                },
+                {
+                  "name": "В этом году ожидается множество новых знакомств."
+                },
+                {
+                  "name": "Пора отдохнуть и заняться хобби."
+                },
+                {
+                  "name": "В этом году Вас ждет море счастья."
+                },
+                {
+                  "name": "Фортуна ответит да на любой вопрос."
+                },
+                {
+                  "name": "Рискуйте и обязательно выиграете."
+                },
+                {
+                  "name": "Этот год принесет повышение на работе."
+                },
+                {
+                  "name": "Желаемое осуществится в середине года."
+                },
+                {
+                  "name": "Этот год принесет только счастье и успех. "
+                },
+                {
+                  "name": "В этом году к Вам придет любовь, не упустите ее."
+                },
+                {
+                  "name": "Очень удачный год для начала собственного бизнеса."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "bake a sweet pizza with yogurt bananas, chocolate and marmalade"
+                  "name": "Happiness is already outside the door."
                 },
                 {
-                  "name": "bake a pizza with jalapena peppers, hunting sausages and cheese"
+                  "name": "Be attentive to your health."
                 },
                 {
-                  "name": "order pizza to your best friend (girlfriend), pay, and go! On a visit to eat pizza!"
+                  "name": "Listen to the advice of your intuition."
                 },
                 {
-                  "name": "order your least favorite pizza and eat it completely O_O"
+                  "name": "The people who are near now will be helping all year round."
                 },
                 {
-                  "name": "go to the store to buy a \"frozen\" pizza and cook it in the oven."
+                  "name": "The desired meeting will happen very soon."
                 },
                 {
-                  "name": "pizza? take slices of bread, spread them with sauce, put sausage, a slice of cheese on top and in the microwave for 1-2 minutes."
+                  "name": "Love smiles and waits in the wings."
                 },
                 {
-                  "name": "bake small pizzas of small diameter"
+                  "name": "Luck in money matters."
                 },
                 {
-                  "name": "bake pizza from what you find in the fridge"
+                  "name": "Good luck in any endeavor."
                 },
                 {
-                  "name": "take carrots, grate, anoint the pizza crust with honey, add carrots and sprinkle with mozzarella on top. Br ... tell everyone is it tasty or not?"
+                  "name": "Happiness is somewhere near, turn around."
                 },
                 {
-                  "name": "pizza? take 4 eggs, separate the yolk and white. mix protein with milk. Whisk the yolk with the cheese. Fry the sausage in a pan, then add the protein, wait until grabbing. Pour the yolk on top and cover. Wait a little bit. Nothing worse than pizza =) And most importantly satisfying - tasty and appetizing."
+                  "name": "A year of tears, but only for joy."
                 },
                 {
-                  "name": "buy a tortilla in the store and use it as a base for pizza"
+                  "name": "A trip to a new country awaits you."
                 },
                 {
-                  "name": "bake pancakes, spread them with sauce, add your favorite ingredients. Roll up the pancakes and enjoy."
+                  "name": "This year will radically change your life."
+                },
+                {
+                  "name": "Perhaps a new addition to the family this year."
+                },
+                {
+                  "name": "Career growth will be rapid and successful."
+                },
+                {
+                  "name": "Peace and quiet in the family all year round."
+                },
+                {
+                  "name": "A romantic date will help you find mutual feelings."
+                },
+                {
+                  "name": "Any business is doomed to success."
+                },
+                {
+                  "name": "A journey for the soul will give you the necessary rest and new impressions."
+                },
+                {
+                  "name": "Open your heart to love this year."
+                },
+                {
+                  "name": "The family will give you real support."
+                },
+                {
+                  "name": "Many new acquaintances are expected this year."
+                },
+                {
+                  "name": "Time to rest and take up your hobby."
+                },
+                {
+                  "name": "This year a lot of happiness awaits you."
+                },
+                {
+                  "name": "Fortune will answer yes to any question."
+                },
+                {
+                  "name": "Take risks and you will definitely win."
+                },
+                {
+                  "name": "This year will bring a promotion at work."
+                },
+                {
+                  "name": "The desired will come true in the middle of the year."
+                },
+                {
+                  "name": "This year will only bring happiness and success."
+                },
+                {
+                  "name": "This year love will come to you, do not miss it."
+                },
+                {
+                  "name": "A very successful year for starting your own business."
                 }
             ]
         },
 		{
-            "challenge_name_ru": "ИНТЕРНЕТ_ПЕРЕОДЕВАШКИ",
-            "challenge_name_en": "PIZZA_PIZZA_YAMI_YAMI",
+            "challenge_name_ru": "ПОДАРОК_МУЖЧИНЕ",
+            "challenge_name_en": "PRESENT_FOR_MAN",
             "tasks_ru":[
                 {
-                  "name": "переоденься в бабушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
+                  "name": "Крутые теплые новогодние носки. Положи в каждый носок еще несколько маленьких сюрпризов. (бутолочка, шоколадка и тп)"
                 },
 				{
-                  "name": "переоденься в дедушку, выйди на улицу сфотографируйся и выложи в социальную сеть."
+                  "name": "Подари коллекционную монету. (Например серебряную)"
                 },
 				{
-                  "name": "приклей себе усы. Даже если они у тебя есть приклей усы поверх усов. Главное чтобы их было много. Сфоткайся так и зарепости в социальной сети."
+                  "name": "Хорошое портмоне."
                 },
 				{
-                  "name": "прямо поверх штанов надень трусы, а поверх кофты надень майку. Селфи с подписью - я человек супертрусымайка выложи в социальную сеть"
+                  "name": "Электрическая зубная щетка."
                 },
 				{
-                  "name": "возьми туалетную бумагу обматайся ей как мумия. Выйди на улицу. Сделай селфи и вышли в социальную сеть"
-                },
-                {
-                  "name": "возьми скотч и обматай лицо (только аккуратно) сделай селфи с улыбкой на лице. Репост в социальную сеть."
+                  "name": "Банный комплект."
                 },
 				{
-                  "name": "переоденься в зомби, и запиши видео на котором ты говоришь только одно \"мозгииии\" выложи видео в социальную сеть."
+                  "name": "Машуший кот - фигурка кота, которая принесет удачу и деньги."
+                },
+				{
+                  "name": "Купи интересную настолькую игру. (Например монополия)"
+                },
+				{
+                  "name": "Подари целую коробку носков."
+                },
+				{
+                  "name": "Хорошая авторучка для письма."
+                },
+				{
+                  "name": "Набор для мытья и (или) бритья."
+                },
+				{
+                  "name": "Красивая кружка."
+                },
+				{
+                  "name": "Хороший теплый шарф. (Можно с шапкой)"
+                },
+				{
+                  "name": "Хорошая теплая шапка. (Можно с шарфом)"
+                },
+				{
+                  "name": "Хорошие теплые перчатки или варежки."
+                },
+				{
+                  "name": "Свитер в новогодней тематике."
+                },
+				{
+                  "name": "Хорошая парфюмерная вода."
+                },
+				{
+                  "name": "Подари хороший любимый напиток."
+                },
+				{
+                  "name": "Флеш накопитель."
+                },
+				{
+                  "name": "Беспроводные наушники."
+                },
+				{
+                  "name": "Набор качественных инструментов."
+                },
+				{
+                  "name": "Крутой кожаный ремень."
+                },
+				{
+                  "name": "Мультитул."
+                },
+				{
+                  "name": "Брендовая зажигалка."
+                },
+				{
+                  "name": "Стильный браслет."
+                },
+				{
+                  "name": "Стильное кольцо."
+                },
+				{
+                  "name": "Копилка."
+                },
+				{
+                  "name": "Портативная музыкальная колонка."
+                },
+				{
+                  "name": "Набор для рыбалки."
+                },
+				{
+                  "name": "Деньги."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "change into your grandmother, go outside, take a picture and post it on the social network."
+                  "name": "Cool warm New Year's socks. Put a few more little surprises in each sock. (bottle, chocolate, etc.)"
                 },
                 {
-                  "name": "change into your grandfather, go outside, take a picture and post it on the social network."
+                  "name": "Present a collectible coin. (For example silver)"
+                },
+				{
+                  "name": "Nice wallet."
+                },
+				{
+                  "name": "Electric Toothbrush."
+                },
+				{
+                  "name": "Bath set."
+                },
+				{
+                  "name": "A furry cat is a figurine of a cat that will bring good luck and money."
+                },
+				{
+                  "name": "Buy an interesting board game. (For example monopoly)"
+                },
+				{
+                  "name": "Present a whole box of socks."
+                },
+				{
+                  "name": "Good fountain pen for writing."
+                },
+				{
+                  "name": "A set for washing and / or shaving."
+                },
+				{
+                  "name": "Beautiful mug."
+                },
+				{
+                  "name": "Nice warm scarf. (It is possible with a hat)"
+                },
+				{
+                  "name": "Nice warm hat. (It is possible with a scarf)"
+                },
+				{
+                  "name": "Nice warm gloves or mittens."
+                },
+				{
+                  "name": "Sweater in the New Year's theme."
+                },
+				{
+                  "name": "Good eau de parfum."
+                },
+				{
+                  "name": "Give me a good favorite drink."
+                },
+				{
+                  "name": "Flash drive."
+                },
+				{
+                  "name": "Wireless headphones."
+                },
+				{
+                  "name": "A set of quality tools."
+                },
+				{
+                  "name": "Cool leather belt."
+                },
+				{
+                  "name": "Multitool."
+                },
+				{
+                  "name": "Brand lighter."
+                },
+				{
+                  "name": "Stylish bracelet."
+                },
+				{
+                  "name": "Stylish ring."
+                },
+				{
+                  "name": "Piggy bank."
+                },
+				{
+                  "name": "Portable music speaker."
+                },
+				{
+                  "name": "Fishing set."
+                },
+				{
+                  "name": "Money."
+                }
+            ]
+        },
+		{
+            "challenge_name_ru": "ПОДАРОК_ЖЕНЩИНЕ",
+            "challenge_name_en": "PRESENT_FOR_WOMAN",
+            "tasks_ru":[
+                {
+                  "name": "Красивая кружка."
+                },
+				{
+                  "name": "Хороший теплый шарф. (Можно с шапкой)"
+                },
+				{
+                  "name": "Хорошая теплая шапка. (Можно с шарфом)"
+                },
+				{
+                  "name": "Набор кремов."
+                },
+				{
+                  "name": "Купи интересную настолькую игру. (Например монополия)"
+                },
+				{
+                  "name": "Электрическая зубная щетка."
+                },
+				{
+                  "name": "Беспроводные наушники."
+                },
+				{
+                  "name": "Копилка."
+                },
+				{
+                  "name": "Ювелирное украшение. (Например кулон)"
+                },
+				{
+                  "name": "Шкатулка для ювелирных изделий."
+                },
+				{
+                  "name": "Сертификат в салон красоты."
+                },
+				{
+                  "name": "Сертификат в парфюмерный магазин."
+                },
+				{
+                  "name": "Маникюрный набор."
+                },
+				{
+                  "name": "Массажер для ног или других частей тела."
+                },
+				{
+                  "name": "Фитнес браслет."
+                },
+				{
+                  "name": "Мягкий теплый плед."
+                },
+				{
+                  "name": "Красивая ваза для цветов."
+                },
+				{
+                  "name": "Красивая кухонная посуда. (например тематическая тарелка)"
+                },
+				{
+                  "name": "Набор гелей для душа."
+                },
+				{
+                  "name": "Красивое кухонное полотенце."
+                },
+				{
+                  "name": "Мягкая игрушка."
+                },
+				{
+                  "name": "Набор сладостей (конфеты, шоколадки и тп)"
+                },
+				{
+                  "name": "Перчатки."
+                },
+				{
+                  "name": "Тематическая футболка."
+                },
+				{
+                  "name": "Елочная игрушка."
+                },
+				{
+                  "name": "Косметичка."
+                },
+				{
+                  "name": "Рамки для фотографий."
+                },
+				{
+                  "name": "Книга с интересными кухонными рецептами."
+                },
+				{
+                  "name": "Деньги."
+                }
+            ],
+            "tasks_en":[
+                {
+                  "name": "Beautiful mug."
                 },
                 {
-                  "name": "Glue yourself a mustache. Even if you have them glue the mustache over the mustache. The main thing is that there are a lot of them. Take a picture and get on the social network."
+                  "name": "Nice warm scarf. (It is possible with a hat)"
                 },
-                {
-                  "name": "put on underpants directly over the pants, and put on a T-shirt over the sweater. Selfie with a signature - I'm a super-cute man, post it on a social network."
+				{
+                  "name": "Nice warm hat. (It is possible with a scarf)"
                 },
-                {
-                  "name": "take toilet paper and wrap it like a mummy. Get outside. Take a selfie and repost to a social network."
+				{
+                  "name": "A set of creams."
                 },
-                {
-                  "name": "take scotch tape and wrap your face (only gently) and take a selfie with a smile on your face. Repost to a social network."
+				{
+                  "name": "Buy an interesting board game. (For example monopoly)"
                 },
-                {
-                  "name": "dress up as a zombie, and record a video in which you say only one \"braaaaain\" and upload the video to the social network."
+				{
+                  "name": "Electric Toothbrush."
+                },
+				{
+                  "name": "Wireless headphones."
+                },
+				{
+                  "name": "Piggy bank."
+                },
+				{
+                  "name": "Jewelry. (For example a pendant)"
+                },
+				{
+                  "name": "Jewelry box."
+                },
+				{
+                  "name": "Beauty salon certificate."
+                },
+				{
+                  "name": "Perfume shop certificate."
+                },
+				{
+                  "name": "Manicure set."
+                },
+				{
+                  "name": "Massager for legs or other parts of the body."
+                },
+				{
+                  "name": "Fitness bracelet."
+                },
+				{
+                  "name": "Soft warm blanket."
+                },
+				{
+                  "name": "Beautiful flower vase."
+                },
+				{
+                  "name": "Beautiful kitchen utensils. (for example a thematic plate)"
+                },
+				{
+                  "name": "Shower gel set."
+                },
+				{
+                  "name": "Nice kitchen towel."
+                },
+				{
+                  "name": "Soft toy."
+                },
+				{
+                  "name": "A set of sweets (sweets, chocolates, etc.)"
+                },
+				{
+                  "name": "Gloves."
+                },
+				{
+                  "name": "Themed T-shirt."
+                },
+				{
+                  "name": "Christmas tree toy."
+                },
+				{
+                  "name": "Cosmetic bag."
+                },
+				{
+                  "name": "Photo frame."
+                },
+				{
+                  "name": "A book with interesting kitchen recipes."
+                },
+				{
+                  "name": "Money."
                 }
             ]
         }
