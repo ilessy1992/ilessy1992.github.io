@@ -1,610 +1,102 @@
 {
     "challenges":[
         {
-            "challenge_name_ru": "СНЕЖНЫЕ_УЛИЧНЫЕ_ИГРЫ",
-            "challenge_name_en": "SHOW_STREET_GAMES",
+            "challenge_name_ru": "КОНЕЦ_ЛЕТА",
+            "challenge_name_en": "END_OF_SUMMER",
             "tasks_ru":[
                 {
-                  "name": "Слепи модного снеговика (укрась его на свой вкус) сделай с ним селфи и выложи в соцсети."
+                  "name": "Запости грустную фотку что лето кончается"
                 },
                 {
-                  "name": "Позови всех своих друзей на улицу играть в догонялки со снежками."
+                  "name": "Съешь 25 разного вида мороженного до конца лета"
                 },
                 {
-                  "name": "Слепите снеговика. Отсчитайте от него примерно 10 метров. Лепите снежки и кидайте в снеговика. Выигрывает тот - у кого больше снежков попадет в снеговика."
+                  "name": "Подготовь летний лук: шапка, шорты, майка и бегом в магазин за мороженным"
                 },
                 {
-                  "name": "Прокатись на зимней горке и обязательно позови друзей с собой."
+                  "name": "Говори/пиши всем кто будет тебе сегодня звонить/писать \"Зима близко\""
                 },
                 {
-                  "name": "Соберитесь с друзьями и сыграйте в царь горы. Будьте осторожнее. Игра травмоопасна."
+                  "name": "Лето не кончится. Каждый день пости какое сегодня Августа. И даже. 32,33,34,35... пока не потеплеет снова."
                 },
                 {
-                  "name": "Собери друзей, разделитесь на две команды и сыграйте в зимний футбол."
-                },
-                {
-                  "name": "Возьми с собой друзей и сходи покатайся на каток."
-                },
-                {
-                  "name": "Устрой соревнования с друзьями. Кто слепит самого большого снеговика."
+                  "name": "Сделай из подручных средств пальму и сфоткайся на фоне. Запости фотку с надписью. \"Лето не кончится\""
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "Make a fashionable snowman (decorate it to your liking), take a selfie with him and post on social networks."
+                  "name": "Post a sad photo that summer is ending"
                 },
                 {
-                  "name": "Call all your friends outside to play catch-up with snowballs."
+                  "name": "Eat 25 different types of ice cream by the end of summer"
                 },
                 {
-                  "name": "Make the snowman. Take 15 steps back. Make the snowballs and throw them at the snowman. The winner is the one with the most snowballs hitting the snowman."
+                  "name": "Prepare a summer look: hat, shorts, T-shirt and run to the ice cream store."
                 },
                 {
-                  "name": "Take a ride on the winter slide and be sure to invite your friends with you."
+                  "name": "Tell / write to everyone who will call you / write \"Winter is coming\""
                 },
                 {
-                  "name": "Get together with your friends and play the king of the hill. Be careful. The game is traumatic."
+                  "name": "Summer is not over. Every day post what August is today. And even. 32,33,34,35 ... until it gets warmer again."
                 },
                 {
-                  "name": "Gather your friends, split into two teams and play winter football."
-                },
-                {
-                  "name": "Take your friends with you and go go skating."
-                },
-                {
-                  "name": "Arrange competitions with your friends. Who blinds the biggest snowman."
+                  "name": "Make a palm tree out of handy tools and take a picture in the background. Post a photo with the inscription. \"Summer will not end\""
                 }
             ]
         },
 		{
-            "challenge_name_ru": "НОВОГОДНЕЕ_ПРЕДСКАЗАНИЕ",
-            "challenge_name_en": "NEW_YEAR_PREDICTIONS",
+            "challenge_name_ru": "ОТМОРОЖЕННОЕ",
+            "challenge_name_en": "FROZEN",
             "tasks_ru":[
                 {
-                  "name": "Счастье уже стоит за дверью."
+                  "name": "Попробуй 10 разных видов мороженного за раз. (Съешь их все)"
+                },
+				{
+                  "name": "Налей холодный сладкий чай в большую кружку. Поставь в холодильник на 2 часа и выпей!"
+                },
+				{
+                  "name": "Приготовь еды. Наложи в тарелку, пусть остывает. Остыла? Тарелку в пакет и в морозильник. Через 2 часа попробуй это съесть. (Не забудь поделиться фоткой с друзьями. Бррр)"
+                },
+				{
+                  "name": "Бургероженное/Пиццароженое. Сделай смузи из бургера/пиццы. Залей в пакет и заморозь это в морозилке. (Можешь придумать интересную форму). Приятного аппетита."
+                },
+				{
+                  "name": "Налей холодный сладкий кофе или какао в большую кружку. Заморозь до состояния льда. Кофероженное/какаороженное готово!"
                 },
                 {
-                  "name": "Будьте внимательны к своему здоровью."
+                  "name": "Заморозь бананы в морозильной камере. Достань и попробуй их на вкус."
+                },
+				{
+                  "name": "Возьми сливки, сахар, ваниль (или шоколад по вкусу) взбей до состояния крема. Залей в кружку и попробуй эту гадость."
                 },
                 {
-                  "name": "Прислушайтесь к советам интуиции. "
-                },
-                {
-                  "name": "Люди, что сейчас рядом, будут помогать весь год."
-                },
-                {
-                  "name": "Нужная встреча произойдет совсем скоро."
-                },
-                {
-                  "name": "Любовь улыбается и ждет своего часа."
-                },
-                {
-                  "name": "Везение в денежных вопросах."
-                },
-                {
-                  "name": "Удача в любом начинании."
-                },
-                {
-                  "name": "Счастье где-то рядом, обернитесь вокруг."
-                },
-                {
-                  "name": "Год слёз, но только от радости."
-                },
-                {
-                  "name": "Вас ожидает поездка в новую страну."
-                },
-                {
-                  "name": "Этот год кардинально изменит Вашу жизнь."
-                },
-                {
-                  "name": "Возможно пополнение в семье в этом году."
-                },
-                {
-                  "name": "Карьерный рост будет стремителен и успешен."
-                },
-                {
-                  "name": "Мир и покой в семье весь год."
-                },
-                {
-                  "name": "Романтическое свидание поможет найти взаимные чувства."
-                },
-                {
-                  "name": "Любое дело обречено на успех."
-                },
-                {
-                  "name": "Путешествие для души подарит необходимый отдых и новые впечатления."
-                },
-                {
-                  "name": "Откройте сердце любви в этом году."
-                },
-                {
-                  "name": "Семья подарит настоящую поддержку."
-                },
-                {
-                  "name": "В этом году ожидается множество новых знакомств."
-                },
-                {
-                  "name": "Пора отдохнуть и заняться хобби."
-                },
-                {
-                  "name": "В этом году Вас ждет море счастья."
-                },
-                {
-                  "name": "Фортуна ответит да на любой вопрос."
-                },
-                {
-                  "name": "Рискуйте и обязательно выиграете."
-                },
-                {
-                  "name": "Этот год принесет повышение на работе."
-                },
-                {
-                  "name": "Желаемое осуществится в середине года."
-                },
-                {
-                  "name": "Этот год принесет только счастье и успех. "
-                },
-                {
-                  "name": "В этом году к Вам придет любовь, не упустите ее."
-                },
-                {
-                  "name": "Очень удачный год для начала собственного бизнеса."
+                  "name": "Возьми сок. Сделай из них кубики льда. (можно произвольной формы) Раскроши лёд, добавь взбитые сливки и съешь."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "Happiness is already outside the door."
+                  "name": "Try 10 different types of ice cream at a time. (Eat them all)"
                 },
                 {
-                  "name": "Be attentive to your health."
+                  "name": "Pour iced sweet tea into a large mug. Refrigerate for 2 hours and drink!"
                 },
                 {
-                  "name": "Listen to the advice of your intuition."
+                  "name": "Prepare food. Put on a plate, let it cool. Has it cooled down? A plate in a bag and in a freezer. Wait 2 hours and eat. (Don't forget to share the photo with your friends. Brrr)"
                 },
                 {
-                  "name": "The people who are near now will be helping all year round."
+                  "name": "Burger / Pizza ice cream. Make a burger / pizza smoothie. Pour it into a bag and freeze it in the freezer. (You can think of an interesting shape). Enjoy your meal."
                 },
                 {
-                  "name": "The desired meeting will happen very soon."
+                  "name": "Pour cold sweet coffee or cocoa into a large mug. Freeze to ice. Cofe / cocoa ice cream is ready!"
                 },
                 {
-                  "name": "Love smiles and waits in the wings."
+                  "name": "Freeze bananas in the freezer. Get them out and taste them."
                 },
                 {
-                  "name": "Luck in money matters."
+                  "name": "Take cream, sugar, vanilla (or chocolate to taste), beat until creamy. Pour in a mug and taste this nasty stuff."
                 },
                 {
-                  "name": "Good luck in any endeavor."
-                },
-                {
-                  "name": "Happiness is somewhere near, turn around."
-                },
-                {
-                  "name": "A year of tears, but only for joy."
-                },
-                {
-                  "name": "A trip to a new country awaits you."
-                },
-                {
-                  "name": "This year will radically change your life."
-                },
-                {
-                  "name": "Perhaps a new addition to the family this year."
-                },
-                {
-                  "name": "Career growth will be rapid and successful."
-                },
-                {
-                  "name": "Peace and quiet in the family all year round."
-                },
-                {
-                  "name": "A romantic date will help you find mutual feelings."
-                },
-                {
-                  "name": "Any business is doomed to success."
-                },
-                {
-                  "name": "A journey for the soul will give you the necessary rest and new impressions."
-                },
-                {
-                  "name": "Open your heart to love this year."
-                },
-                {
-                  "name": "The family will give you real support."
-                },
-                {
-                  "name": "Many new acquaintances are expected this year."
-                },
-                {
-                  "name": "Time to rest and take up your hobby."
-                },
-                {
-                  "name": "This year a lot of happiness awaits you."
-                },
-                {
-                  "name": "Fortune will answer yes to any question."
-                },
-                {
-                  "name": "Take risks and you will definitely win."
-                },
-                {
-                  "name": "This year will bring a promotion at work."
-                },
-                {
-                  "name": "The desired will come true in the middle of the year."
-                },
-                {
-                  "name": "This year will only bring happiness and success."
-                },
-                {
-                  "name": "This year love will come to you, do not miss it."
-                },
-                {
-                  "name": "A very successful year for starting your own business."
-                }
-            ]
-        },
-		{
-            "challenge_name_ru": "ПОДАРОК_МУЖЧИНЕ",
-            "challenge_name_en": "PRESENT_FOR_MAN",
-            "tasks_ru":[
-                {
-                  "name": "Крутые теплые новогодние носки. Положи в каждый носок еще несколько маленьких сюрпризов. (бутолочка, шоколадка и тп)"
-                },
-				{
-                  "name": "Подари коллекционную монету. (Например серебряную)"
-                },
-				{
-                  "name": "Хорошое портмоне."
-                },
-				{
-                  "name": "Электрическая зубная щетка."
-                },
-				{
-                  "name": "Банный комплект."
-                },
-				{
-                  "name": "Машуший кот - фигурка кота, которая принесет удачу и деньги."
-                },
-				{
-                  "name": "Купи интересную настолькую игру. (Например монополия)"
-                },
-				{
-                  "name": "Подари целую коробку носков."
-                },
-				{
-                  "name": "Хорошая авторучка для письма."
-                },
-				{
-                  "name": "Набор для мытья и (или) бритья."
-                },
-				{
-                  "name": "Красивая кружка."
-                },
-				{
-                  "name": "Хороший теплый шарф. (Можно с шапкой)"
-                },
-				{
-                  "name": "Хорошая теплая шапка. (Можно с шарфом)"
-                },
-				{
-                  "name": "Хорошие теплые перчатки или варежки."
-                },
-				{
-                  "name": "Свитер в новогодней тематике."
-                },
-				{
-                  "name": "Хорошая парфюмерная вода."
-                },
-				{
-                  "name": "Подари хороший любимый напиток."
-                },
-				{
-                  "name": "Флеш накопитель."
-                },
-				{
-                  "name": "Беспроводные наушники."
-                },
-				{
-                  "name": "Набор качественных инструментов."
-                },
-				{
-                  "name": "Крутой кожаный ремень."
-                },
-				{
-                  "name": "Мультитул."
-                },
-				{
-                  "name": "Брендовая зажигалка."
-                },
-				{
-                  "name": "Стильный браслет."
-                },
-				{
-                  "name": "Стильное кольцо."
-                },
-				{
-                  "name": "Копилка."
-                },
-				{
-                  "name": "Портативная музыкальная колонка."
-                },
-				{
-                  "name": "Набор для рыбалки."
-                },
-				{
-                  "name": "Деньги."
-                }
-            ],
-            "tasks_en":[
-                {
-                  "name": "Cool warm New Year's socks. Put a few more little surprises in each sock. (bottle, chocolate, etc.)"
-                },
-                {
-                  "name": "Present a collectible coin. (For example silver)"
-                },
-				{
-                  "name": "Nice wallet."
-                },
-				{
-                  "name": "Electric Toothbrush."
-                },
-				{
-                  "name": "Bath set."
-                },
-				{
-                  "name": "A furry cat is a figurine of a cat that will bring good luck and money."
-                },
-				{
-                  "name": "Buy an interesting board game. (For example monopoly)"
-                },
-				{
-                  "name": "Present a whole box of socks."
-                },
-				{
-                  "name": "Good fountain pen for writing."
-                },
-				{
-                  "name": "A set for washing and / or shaving."
-                },
-				{
-                  "name": "Beautiful mug."
-                },
-				{
-                  "name": "Nice warm scarf. (It is possible with a hat)"
-                },
-				{
-                  "name": "Nice warm hat. (It is possible with a scarf)"
-                },
-				{
-                  "name": "Nice warm gloves or mittens."
-                },
-				{
-                  "name": "Sweater in the New Year's theme."
-                },
-				{
-                  "name": "Good eau de parfum."
-                },
-				{
-                  "name": "Give me a good favorite drink."
-                },
-				{
-                  "name": "Flash drive."
-                },
-				{
-                  "name": "Wireless headphones."
-                },
-				{
-                  "name": "A set of quality tools."
-                },
-				{
-                  "name": "Cool leather belt."
-                },
-				{
-                  "name": "Multitool."
-                },
-				{
-                  "name": "Brand lighter."
-                },
-				{
-                  "name": "Stylish bracelet."
-                },
-				{
-                  "name": "Stylish ring."
-                },
-				{
-                  "name": "Piggy bank."
-                },
-				{
-                  "name": "Portable music speaker."
-                },
-				{
-                  "name": "Fishing set."
-                },
-				{
-                  "name": "Money."
-                }
-            ]
-        },
-		{
-            "challenge_name_ru": "ПОДАРОК_ЖЕНЩИНЕ",
-            "challenge_name_en": "PRESENT_FOR_WOMAN",
-            "tasks_ru":[
-                {
-                  "name": "Красивая кружка."
-                },
-				{
-                  "name": "Хороший теплый шарф. (Можно с шапкой)"
-                },
-				{
-                  "name": "Хорошая теплая шапка. (Можно с шарфом)"
-                },
-				{
-                  "name": "Набор кремов."
-                },
-				{
-                  "name": "Купи интересную настолькую игру. (Например монополия)"
-                },
-				{
-                  "name": "Электрическая зубная щетка."
-                },
-				{
-                  "name": "Беспроводные наушники."
-                },
-				{
-                  "name": "Копилка."
-                },
-				{
-                  "name": "Ювелирное украшение. (Например кулон)"
-                },
-				{
-                  "name": "Шкатулка для ювелирных изделий."
-                },
-				{
-                  "name": "Сертификат в салон красоты."
-                },
-				{
-                  "name": "Сертификат в парфюмерный магазин."
-                },
-				{
-                  "name": "Маникюрный набор."
-                },
-				{
-                  "name": "Массажер для ног или других частей тела."
-                },
-				{
-                  "name": "Фитнес браслет."
-                },
-				{
-                  "name": "Мягкий теплый плед."
-                },
-				{
-                  "name": "Красивая ваза для цветов."
-                },
-				{
-                  "name": "Красивая кухонная посуда. (например тематическая тарелка)"
-                },
-				{
-                  "name": "Набор гелей для душа."
-                },
-				{
-                  "name": "Красивое кухонное полотенце."
-                },
-				{
-                  "name": "Мягкая игрушка."
-                },
-				{
-                  "name": "Набор сладостей (конфеты, шоколадки и тп)"
-                },
-				{
-                  "name": "Перчатки."
-                },
-				{
-                  "name": "Тематическая футболка."
-                },
-				{
-                  "name": "Елочная игрушка."
-                },
-				{
-                  "name": "Косметичка."
-                },
-				{
-                  "name": "Рамки для фотографий."
-                },
-				{
-                  "name": "Книга с интересными кухонными рецептами."
-                },
-				{
-                  "name": "Деньги."
-                }
-            ],
-            "tasks_en":[
-                {
-                  "name": "Beautiful mug."
-                },
-                {
-                  "name": "Nice warm scarf. (It is possible with a hat)"
-                },
-				{
-                  "name": "Nice warm hat. (It is possible with a scarf)"
-                },
-				{
-                  "name": "A set of creams."
-                },
-				{
-                  "name": "Buy an interesting board game. (For example monopoly)"
-                },
-				{
-                  "name": "Electric Toothbrush."
-                },
-				{
-                  "name": "Wireless headphones."
-                },
-				{
-                  "name": "Piggy bank."
-                },
-				{
-                  "name": "Jewelry. (For example a pendant)"
-                },
-				{
-                  "name": "Jewelry box."
-                },
-				{
-                  "name": "Beauty salon certificate."
-                },
-				{
-                  "name": "Perfume shop certificate."
-                },
-				{
-                  "name": "Manicure set."
-                },
-				{
-                  "name": "Massager for legs or other parts of the body."
-                },
-				{
-                  "name": "Fitness bracelet."
-                },
-				{
-                  "name": "Soft warm blanket."
-                },
-				{
-                  "name": "Beautiful flower vase."
-                },
-				{
-                  "name": "Beautiful kitchen utensils. (for example a thematic plate)"
-                },
-				{
-                  "name": "Shower gel set."
-                },
-				{
-                  "name": "Nice kitchen towel."
-                },
-				{
-                  "name": "Soft toy."
-                },
-				{
-                  "name": "A set of sweets (sweets, chocolates, etc.)"
-                },
-				{
-                  "name": "Gloves."
-                },
-				{
-                  "name": "Themed T-shirt."
-                },
-				{
-                  "name": "Christmas tree toy."
-                },
-				{
-                  "name": "Cosmetic bag."
-                },
-				{
-                  "name": "Photo frame."
-                },
-				{
-                  "name": "A book with interesting kitchen recipes."
-                },
-				{
-                  "name": "Money."
+                  "name": "Take the juice. Make ice cubes out of them. (can be of any shape) Crumble the ice, add whipped cream and eat."
                 }
             ]
         }
