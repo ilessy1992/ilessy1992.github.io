@@ -1,250 +1,610 @@
 {
     "challenges":[
         {
-            "challenge_name_ru": "ХЭЛЛУИНСКАЯ КУХНЯ",
-            "challenge_name_en": "HALLOWEEN KITCHEN",
+            "challenge_name_ru": "СНЕЖНЫЕ_УЛИЧНЫЕ_ИГРЫ",
+            "challenge_name_en": "SHOW_STREET_GAMES",
             "tasks_ru":[
                 {
-                  "name": "испечь пиццу с острым томатным соусом, острым перцем и острыми колбасками (осторожнее! будет остро)"
+                  "name": "Слепи модного снеговика (укрась его на свой вкус) сделай с ним селфи и выложи в соцсети."
                 },
                 {
-                  "name": "сделай безалкогольный коктейль Кровавая Мэри"
+                  "name": "Позови всех своих друзей на улицу играть в догонялки со снежками."
                 },
                 {
-                  "name": "приготовь тыквенный суп пюре"
+                  "name": "Слепите снеговика. Отсчитайте от него примерно 10 метров. Лепите снежки и кидайте в снеговика. Выигрывает тот - у кого больше снежков попадет в снеговика."
                 },
                 {
-                  "name": "приготовь большой тыквенный пирог"
+                  "name": "Прокатись на зимней горке и обязательно позови друзей с собой."
                 },
                 {
-                  "name": "сделай сладкие кексики в виде привидений"
+                  "name": "Соберитесь с друзьями и сыграйте в царь горы. Будьте осторожнее. Игра травмоопасна."
                 },
                 {
-                  "name": "приготовь томатный суп. Пусти больше томатной пасты чтобы было максимально жутко"
+                  "name": "Собери друзей, разделитесь на две команды и сыграйте в зимний футбол."
                 },
                 {
-                  "name": "сделай сладкий клубничный (вишневый) пирог."
+                  "name": "Возьми с собой друзей и сходи покатайся на каток."
                 },
                 {
-                  "name": "свари вишневый компот"
-                },
-                {
-                  "name": "сделай страшно вкусные сандвичи, укрась их помидорами и оливками(сделай глазики)"
-                },
-                {
-                  "name": "свари яйца в крутую, сделай им глаза и рот. Покрась небольшим количеством томатной пасты"
-                },
-                {
-                  "name": "поджарь хлеб, натри чесноком и помажь острым соусом"
+                  "name": "Устрой соревнования с друзьями. Кто слепит самого большого снеговика."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "bake pizza with spicy tomato sauce, hot peppers and spicy sausages (be careful! it will be spicy)"
+                  "name": "Make a fashionable snowman (decorate it to your liking), take a selfie with him and post on social networks."
                 },
                 {
-                  "name": "make a non-alcoholic cocktail Bloody Mary"
+                  "name": "Call all your friends outside to play catch-up with snowballs."
                 },
                 {
-                  "name": "make pumpkin cream soup"
+                  "name": "Make the snowman. Take 15 steps back. Make the snowballs and throw them at the snowman. The winner is the one with the most snowballs hitting the snowman."
                 },
                 {
-                  "name": "make a big pumpkin pie"
+                  "name": "Take a ride on the winter slide and be sure to invite your friends with you."
                 },
                 {
-                  "name": "make sweet ghost cupcakes"
+                  "name": "Get together with your friends and play the king of the hill. Be careful. The game is traumatic."
                 },
                 {
-                  "name": "make tomato soup. Use more tomato paste to make it as creepy as possible"
+                  "name": "Gather your friends, split into two teams and play winter football."
                 },
                 {
-                  "name": "make a sweet strawberry (cherry) pie."
+                  "name": "Take your friends with you and go go skating."
                 },
                 {
-                  "name": "boil cherry compote"
-                },
-                {
-                  "name": "make scary tasty sandwiches, garnish with tomatoes and olives (make eyes)"
-                },
-                {
-                  "name": "boil eggs hard, make them eyes and mouth. Paint with a little tomato paste"
-                },
-                {
-                  "name": "toast the bread, rub with garlic and anoint with hot sauce"
+                  "name": "Arrange competitions with your friends. Who blinds the biggest snowman."
                 }
             ]
         },
 		{
-            "challenge_name_ru": "КОШЕЛЕК ИЛИ КОНФЕТЫ",
-            "challenge_name_en": "PURSE OR CANDIES",
+            "challenge_name_ru": "НОВОГОДНЕЕ_ПРЕДСКАЗАНИЕ",
+            "challenge_name_en": "NEW_YEAR_PREDICTIONS",
             "tasks_ru":[
                 {
-                  "name": "кошелек"
+                  "name": "Счастье уже стоит за дверью."
                 },
-				{
-                  "name": "конфеты"
+                {
+                  "name": "Будьте внимательны к своему здоровью."
+                },
+                {
+                  "name": "Прислушайтесь к советам интуиции. "
+                },
+                {
+                  "name": "Люди, что сейчас рядом, будут помогать весь год."
+                },
+                {
+                  "name": "Нужная встреча произойдет совсем скоро."
+                },
+                {
+                  "name": "Любовь улыбается и ждет своего часа."
+                },
+                {
+                  "name": "Везение в денежных вопросах."
+                },
+                {
+                  "name": "Удача в любом начинании."
+                },
+                {
+                  "name": "Счастье где-то рядом, обернитесь вокруг."
+                },
+                {
+                  "name": "Год слёз, но только от радости."
+                },
+                {
+                  "name": "Вас ожидает поездка в новую страну."
+                },
+                {
+                  "name": "Этот год кардинально изменит Вашу жизнь."
+                },
+                {
+                  "name": "Возможно пополнение в семье в этом году."
+                },
+                {
+                  "name": "Карьерный рост будет стремителен и успешен."
+                },
+                {
+                  "name": "Мир и покой в семье весь год."
+                },
+                {
+                  "name": "Романтическое свидание поможет найти взаимные чувства."
+                },
+                {
+                  "name": "Любое дело обречено на успех."
+                },
+                {
+                  "name": "Путешествие для души подарит необходимый отдых и новые впечатления."
+                },
+                {
+                  "name": "Откройте сердце любви в этом году."
+                },
+                {
+                  "name": "Семья подарит настоящую поддержку."
+                },
+                {
+                  "name": "В этом году ожидается множество новых знакомств."
+                },
+                {
+                  "name": "Пора отдохнуть и заняться хобби."
+                },
+                {
+                  "name": "В этом году Вас ждет море счастья."
+                },
+                {
+                  "name": "Фортуна ответит да на любой вопрос."
+                },
+                {
+                  "name": "Рискуйте и обязательно выиграете."
+                },
+                {
+                  "name": "Этот год принесет повышение на работе."
+                },
+                {
+                  "name": "Желаемое осуществится в середине года."
+                },
+                {
+                  "name": "Этот год принесет только счастье и успех. "
+                },
+                {
+                  "name": "В этом году к Вам придет любовь, не упустите ее."
+                },
+                {
+                  "name": "Очень удачный год для начала собственного бизнеса."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "purse"
+                  "name": "Happiness is already outside the door."
                 },
                 {
-                  "name": "candies"
+                  "name": "Be attentive to your health."
+                },
+                {
+                  "name": "Listen to the advice of your intuition."
+                },
+                {
+                  "name": "The people who are near now will be helping all year round."
+                },
+                {
+                  "name": "The desired meeting will happen very soon."
+                },
+                {
+                  "name": "Love smiles and waits in the wings."
+                },
+                {
+                  "name": "Luck in money matters."
+                },
+                {
+                  "name": "Good luck in any endeavor."
+                },
+                {
+                  "name": "Happiness is somewhere near, turn around."
+                },
+                {
+                  "name": "A year of tears, but only for joy."
+                },
+                {
+                  "name": "A trip to a new country awaits you."
+                },
+                {
+                  "name": "This year will radically change your life."
+                },
+                {
+                  "name": "Perhaps a new addition to the family this year."
+                },
+                {
+                  "name": "Career growth will be rapid and successful."
+                },
+                {
+                  "name": "Peace and quiet in the family all year round."
+                },
+                {
+                  "name": "A romantic date will help you find mutual feelings."
+                },
+                {
+                  "name": "Any business is doomed to success."
+                },
+                {
+                  "name": "A journey for the soul will give you the necessary rest and new impressions."
+                },
+                {
+                  "name": "Open your heart to love this year."
+                },
+                {
+                  "name": "The family will give you real support."
+                },
+                {
+                  "name": "Many new acquaintances are expected this year."
+                },
+                {
+                  "name": "Time to rest and take up your hobby."
+                },
+                {
+                  "name": "This year a lot of happiness awaits you."
+                },
+                {
+                  "name": "Fortune will answer yes to any question."
+                },
+                {
+                  "name": "Take risks and you will definitely win."
+                },
+                {
+                  "name": "This year will bring a promotion at work."
+                },
+                {
+                  "name": "The desired will come true in the middle of the year."
+                },
+                {
+                  "name": "This year will only bring happiness and success."
+                },
+                {
+                  "name": "This year love will come to you, do not miss it."
+                },
+                {
+                  "name": "A very successful year for starting your own business."
                 }
             ]
         },
 		{
-            "challenge_name_ru": "КОСТЮМ",
-            "challenge_name_en": "COSTUME",
+            "challenge_name_ru": "ПОДАРОК_МУЖЧИНЕ",
+            "challenge_name_en": "PRESENT_FOR_MAN",
             "tasks_ru":[
                 {
-                  "name": "одень костюм в стиле игры Among US (SHHHHHH!) зарепости в социальные сети"
+                  "name": "Крутые теплые новогодние носки. Положи в каждый носок еще несколько маленьких сюрпризов. (бутолочка, шоколадка и тп)"
                 },
 				{
-                  "name": "сделай костюм в виде привидения, одень и зарепости фото в социальные сети"
+                  "name": "Подари коллекционную монету. (Например серебряную)"
                 },
 				{
-                  "name": "выбери маску из любимого фильма ужасов, оденься как персонаж и зарепости фотку в социальные сети"
+                  "name": "Хорошое портмоне."
                 },
 				{
-                  "name": "оденься в хэллуинский костюм и сходи в гости к друзьям (не забудь у них спросить про кошелек или конфеты)"
+                  "name": "Электрическая зубная щетка."
                 },
 				{
-                  "name": "оденься в костюм тыквы, разукрась лицо в оранжевый цвет позвони по видеосвязи лучшему другу и поздравь его с праздником"
+                  "name": "Банный комплект."
                 },
 				{
-                  "name": "оденься в стиле Зомби. Запиши видео и выложи в социальные сети. Не забудь произносить при этом \"Мозгиииии....\""
+                  "name": "Машуший кот - фигурка кота, которая принесет удачу и деньги."
                 },
 				{
-                  "name": "оденься как вампир (не забудь про клыки) - круто будет украсить клыки красной краской (пищевой). Сделай крутое фото."
+                  "name": "Купи интересную настолькую игру. (Например монополия)"
                 },
 				{
-                  "name": "обменяйтесь идеями с друзьями во что одеться на хэллуин."
+                  "name": "Подари целую коробку носков."
                 },
 				{
-                  "name": "оденься в костюм древней мумии. используй тряпки или туалетную бумагу, сфоткайся и зарепости в социальные сети"
+                  "name": "Хорошая авторучка для письма."
                 },
 				{
-                  "name": "оденься в клоуна и сфотографируйся с безумно красивой улыбкой"
+                  "name": "Набор для мытья и (или) бритья."
                 },
 				{
-                  "name": "оденься в стиле персонажа любимого фильма"
+                  "name": "Красивая кружка."
                 },
 				{
-                  "name": "оденься в стиле безумного колдуна или ведьмы, не забудь использовать заклинание (кошелек или конфеты)"
+                  "name": "Хороший теплый шарф. (Можно с шапкой)"
                 },
 				{
-                  "name": "сделай себе жутко ужасный и реалистичный грим"
+                  "name": "Хорошая теплая шапка. (Можно с шарфом)"
+                },
+				{
+                  "name": "Хорошие теплые перчатки или варежки."
+                },
+				{
+                  "name": "Свитер в новогодней тематике."
+                },
+				{
+                  "name": "Хорошая парфюмерная вода."
+                },
+				{
+                  "name": "Подари хороший любимый напиток."
+                },
+				{
+                  "name": "Флеш накопитель."
+                },
+				{
+                  "name": "Беспроводные наушники."
+                },
+				{
+                  "name": "Набор качественных инструментов."
+                },
+				{
+                  "name": "Крутой кожаный ремень."
+                },
+				{
+                  "name": "Мультитул."
+                },
+				{
+                  "name": "Брендовая зажигалка."
+                },
+				{
+                  "name": "Стильный браслет."
+                },
+				{
+                  "name": "Стильное кольцо."
+                },
+				{
+                  "name": "Копилка."
+                },
+				{
+                  "name": "Портативная музыкальная колонка."
+                },
+				{
+                  "name": "Набор для рыбалки."
+                },
+				{
+                  "name": "Деньги."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "dress up a suit in the style of the game Among US (SHHHHHH!)"
+                  "name": "Cool warm New Year's socks. Put a few more little surprises in each sock. (bottle, chocolate, etc.)"
                 },
                 {
-                  "name": "make a costume in the form of a ghost, dress and send photos in social networks"
+                  "name": "Present a collectible coin. (For example silver)"
                 },
-                {
-                  "name": "choose a mask from your favorite horror movie, dress up as a character and send photos in social networks"
+				{
+                  "name": "Nice wallet."
                 },
-                {
-                  "name": "dress up in a Halloween costume and visit your friends (don't forget to ask them about a PURSE OR CANDIES)"
+				{
+                  "name": "Electric Toothbrush."
                 },
-                {
-                  "name": "dress up in a pumpkin costume, paint your face orange, call your best friend via video link and congratulate him on the halloween"
+				{
+                  "name": "Bath set."
                 },
-                {
-                  "name": "dress up in zombie style. Record a video and post it on social media. Remember to say \"braiiiiiiiiin .... \""
+				{
+                  "name": "A furry cat is a figurine of a cat that will bring good luck and money."
                 },
-                {
-                  "name": "dress like a vampire (don't forget about the fangs) - it will be cool to decorate the fangs with red paint. Take a cool photo."
+				{
+                  "name": "Buy an interesting board game. (For example monopoly)"
                 },
-                {
-                  "name": "exchange ideas with your friends what to dress for halloween."
+				{
+                  "name": "Present a whole box of socks."
                 },
-                {
-                  "name": "dress up as an ancient mummy. use rags or toilet paper, take a picture and post to social media"
+				{
+                  "name": "Good fountain pen for writing."
                 },
-                {
-                  "name": "dress up as a clown and take a picture with an insanely beautiful smile"
+				{
+                  "name": "A set for washing and / or shaving."
                 },
-                {
-                  "name": "dress in the style of your favorite movie character"
+				{
+                  "name": "Beautiful mug."
                 },
-                {
-                  "name": "dress up like a mad sorcerer or witch, don't forget to use a spell (PURSE OR CANDIES)"
+				{
+                  "name": "Nice warm scarf. (It is possible with a hat)"
                 },
-                {
-                  "name": "make yourself creepy awful and realistic makeup"
+				{
+                  "name": "Nice warm hat. (It is possible with a scarf)"
+                },
+				{
+                  "name": "Nice warm gloves or mittens."
+                },
+				{
+                  "name": "Sweater in the New Year's theme."
+                },
+				{
+                  "name": "Good eau de parfum."
+                },
+				{
+                  "name": "Give me a good favorite drink."
+                },
+				{
+                  "name": "Flash drive."
+                },
+				{
+                  "name": "Wireless headphones."
+                },
+				{
+                  "name": "A set of quality tools."
+                },
+				{
+                  "name": "Cool leather belt."
+                },
+				{
+                  "name": "Multitool."
+                },
+				{
+                  "name": "Brand lighter."
+                },
+				{
+                  "name": "Stylish bracelet."
+                },
+				{
+                  "name": "Stylish ring."
+                },
+				{
+                  "name": "Piggy bank."
+                },
+				{
+                  "name": "Portable music speaker."
+                },
+				{
+                  "name": "Fishing set."
+                },
+				{
+                  "name": "Money."
                 }
             ]
         },
 		{
-            "challenge_name_ru": "ХЭЛЛУИНСКИЙ ДОСУГ",
-            "challenge_name_en": "HALLOWEEN ACT",
+            "challenge_name_ru": "ПОДАРОК_ЖЕНЩИНЕ",
+            "challenge_name_en": "PRESENT_FOR_WOMAN",
             "tasks_ru":[
                 {
-                  "name": "посмотри фильм ужасов один или в компании друзей в полной темноте, тишине, с коктейлями и хэллуинской едой"
+                  "name": "Красивая кружка."
                 },
 				{
-                  "name": "сделай из тыквы хэллуинские фонари, сделай селфи и выложи в социальные сети"
+                  "name": "Хороший теплый шарф. (Можно с шапкой)"
                 },
 				{
-                  "name": "в хэллуинском образе позвони по видео всем своим друзьям и спроси (кошелек или конфеты)"
+                  "name": "Хорошая теплая шапка. (Можно с шарфом)"
                 },
 				{
-                  "name": "измени свой голос и позвони лучшему другу с незнакомого номера, узнает ли он тебя?"
+                  "name": "Набор кремов."
                 },
 				{
-                  "name": "устрой вечеринку с мумиями. Оденься сам как мумия и пусть все друзья оденутся в мумию тоже (можно использовать туалетную бумагу)"
+                  "name": "Купи интересную настолькую игру. (Например монополия)"
                 },
 				{
-                  "name": "соберитесь с друзьями выключите свет. Дождитесь полной темноты. Зажгите свечку (можно фонарик - так безопаснее) и рассказывайте жуткие истории."
+                  "name": "Электрическая зубная щетка."
                 },
 				{
-                  "name": "пригласи в гости своих друзей и предложи отметить хэллуин вместе"
+                  "name": "Беспроводные наушники."
                 },
 				{
-                  "name": "запиши на диктофон странные звуки. Поставь на будильник и спрячь телефон. Соберись с друзьями и в полной темноте вызовите \"дух будильника\"(придумай оригинальное название)."
+                  "name": "Копилка."
                 },
 				{
-                  "name": "сходи в магазин и купи тыкву, принеси домой, сделай из нее тыквенную маску. Станцуй и выложи видео в социальные сети."
+                  "name": "Ювелирное украшение. (Например кулон)"
                 },
 				{
-                  "name": "соберись с друзьями и сделайте хэллуинский гарлем шейк, выложи видео на ютуб "
+                  "name": "Шкатулка для ювелирных изделий."
+                },
+				{
+                  "name": "Сертификат в салон красоты."
+                },
+				{
+                  "name": "Сертификат в парфюмерный магазин."
+                },
+				{
+                  "name": "Маникюрный набор."
+                },
+				{
+                  "name": "Массажер для ног или других частей тела."
+                },
+				{
+                  "name": "Фитнес браслет."
+                },
+				{
+                  "name": "Мягкий теплый плед."
+                },
+				{
+                  "name": "Красивая ваза для цветов."
+                },
+				{
+                  "name": "Красивая кухонная посуда. (например тематическая тарелка)"
+                },
+				{
+                  "name": "Набор гелей для душа."
+                },
+				{
+                  "name": "Красивое кухонное полотенце."
+                },
+				{
+                  "name": "Мягкая игрушка."
+                },
+				{
+                  "name": "Набор сладостей (конфеты, шоколадки и тп)"
+                },
+				{
+                  "name": "Перчатки."
+                },
+				{
+                  "name": "Тематическая футболка."
+                },
+				{
+                  "name": "Елочная игрушка."
+                },
+				{
+                  "name": "Косметичка."
+                },
+				{
+                  "name": "Рамки для фотографий."
+                },
+				{
+                  "name": "Книга с интересными кухонными рецептами."
+                },
+				{
+                  "name": "Деньги."
                 }
             ],
             "tasks_en":[
                 {
-                  "name": "watch a horror movie alone or with friends in complete darkness, silence, with cocktails and Halloween food"
+                  "name": "Beautiful mug."
                 },
                 {
-                  "name": "make Halloween lanterns out of pumpkin, take a selfie and share on social networks"
+                  "name": "Nice warm scarf. (It is possible with a hat)"
                 },
-                {
-                  "name": "in a Halloween look, call all your friends on the video and ask (PURSE OR CANDIES)"
+				{
+                  "name": "Nice warm hat. (It is possible with a scarf)"
                 },
-                {
-                  "name": "change your voice and call your best friend from an unfamiliar number, will he recognize you?"
+				{
+                  "name": "A set of creams."
                 },
-                {
-                  "name": "Throw a mummy party. Dress yourself as a mummy and have all your friends dress up as a mummy too (you can use toilet paper)"
+				{
+                  "name": "Buy an interesting board game. (For example monopoly)"
                 },
-                {
-                  "name": "get together with your friends turn off the lights. Wait for complete darkness. Light a candle (you can use a flashlight - it's safer) and tell creepy stories."
+				{
+                  "name": "Electric Toothbrush."
                 },
-                {
-                  "name": "invite your friends and celebrate halloween together"
+				{
+                  "name": "Wireless headphones."
                 },
-                {
-                  "name": "record strange sounds on the recorder. Put on the alarm and hide the phone. Get together with your friends and, in complete darkness, call the \"spirit of the alarm clock\" (set the original name)."
+				{
+                  "name": "Piggy bank."
                 },
-                {
-                  "name": "go to the store and buy a pumpkin, bring it home, make a pumpkin mask out of it. Dance and share your videos on social networks."
+				{
+                  "name": "Jewelry. (For example a pendant)"
                 },
-                {
-                  "name": "get together with your friends and make a halloween harlem shake, put the video on youtube"
+				{
+                  "name": "Jewelry box."
+                },
+				{
+                  "name": "Beauty salon certificate."
+                },
+				{
+                  "name": "Perfume shop certificate."
+                },
+				{
+                  "name": "Manicure set."
+                },
+				{
+                  "name": "Massager for legs or other parts of the body."
+                },
+				{
+                  "name": "Fitness bracelet."
+                },
+				{
+                  "name": "Soft warm blanket."
+                },
+				{
+                  "name": "Beautiful flower vase."
+                },
+				{
+                  "name": "Beautiful kitchen utensils. (for example a thematic plate)"
+                },
+				{
+                  "name": "Shower gel set."
+                },
+				{
+                  "name": "Nice kitchen towel."
+                },
+				{
+                  "name": "Soft toy."
+                },
+				{
+                  "name": "A set of sweets (sweets, chocolates, etc.)"
+                },
+				{
+                  "name": "Gloves."
+                },
+				{
+                  "name": "Themed T-shirt."
+                },
+				{
+                  "name": "Christmas tree toy."
+                },
+				{
+                  "name": "Cosmetic bag."
+                },
+				{
+                  "name": "Photo frame."
+                },
+				{
+                  "name": "A book with interesting kitchen recipes."
+                },
+				{
+                  "name": "Money."
                 }
             ]
         }
