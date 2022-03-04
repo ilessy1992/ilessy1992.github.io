@@ -1,71 +1,65 @@
 {
     "challenges":[
         {
-            "challenge_name_ru": "НЕТ ВОЙНЕ ЧЕЛЛЕНДЖ",
-            "challenge_name_en": "NO WAR CHALLENGE",
+            "challenge_name_ru": "Весенний челлендж",
+            "challenge_name_en": "Spring Challenge",
             "tasks_ru":[
                 {
-                  "name": "Опубликуй голубя мира на своей странице. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Приготовь весенние вкусняшки, поделись рецептом у себя в социальной сети."
                 },
 				{
-                  "name": "Запиши видео о призвании к миру в мире и опубликуй. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Опубликуй фотографию как ты провожаешь зиму, и встречаешь весну."
                 },
 				{
-                  "name": "Опубликуй запись к призыву к миру в мире. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Придумай стих, посвященный весне. Опубликуй у себя в социальной сети."
                 },
 				{
-                  "name": "Сделай оригами голубя мира. И Выложи в соц сети. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Найди песню посвященную весне, спой, запиши на видео и опубликуй у себя в социальной сети."
                 },
 				{
-                  "name": "Напиши статус: мир! нет войне! мир, я люблю тебя. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Расскажи всем что ты больше всего ждешь хорошего этой весной."
                 },
 				{
-                  "name": "Напиши статус: мир: миру - мир. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Напиши статус в социальной сети: зима уходи, весна приходи!"
                 },
 				{
-                  "name": "Замени аватар на голубя мира, или сделай композицию с ним. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Запиши видео на десяти языках: Весна я люблю тебя!. И опубликуй у себя в социальной сети."
                 },
 				{
-                  "name": "Поделись эмоциями как ты любишь мир у себя на странице. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Нарисуй рисунок посвященный весне, и опубликуй у себя на странице."
                 },
 				{
-                  "name": "Расскажи всем, что ты за мир во всем мире! Поделись ссылкой приложения, это поможет миру!!!."
-                },
-				{
-                  "name": "Напиши историю о происходящем. Поделись ссылкой приложения, это поможет миру!!!."
+                  "name": "Вспомни, с чем хорошим у тебя ассоциируется весна и напиши у себя в социальной сети."
                 }
             ],
             "tasks_en":[
                 {
-				  "name": "Publish the dove of peace on your page. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Record a video about calling for peace in the world and publish it. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Publish an entry to the call for peace in the world. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Make an origami dove of peace. And post it on the social network. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Write the status: peace! no war! Mir, I love you. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Write the status: world: world - world. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Replace the avatar with the dove of the world, or make a composition with it. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Share your emotions how you love the world on your page. Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Tell everyone that you are for world peace! Share the application link, it will help the world!!!."
-				},
-				{
-				  "name": "Write a story about what is happening. Share the application link, it will help the world!!!."
-				} 
+                  "name": "Make spring treats, share the recipe on your social network."
+                },
+		{
+                  "name": "Post a photo of you saying goodbye to winter and welcoming spring."
+                },
+		{
+                  "name": "Make up a poem about spring. Post it on your social network."
+                },
+		{
+                  "name": "Find a song dedicated to spring, sing it, record it on video and post it on your social network."
+                },
+		{
+                  "name": "Tell everyone what you're most looking forward to this spring."
+                },
+		{
+                  "name": "Write a status on the social network: winter is gone, spring is coming!"
+                },
+		{
+                  "name": "Record a video in ten languages: Spring I love you!. And post it on your social network."
+                },
+		{
+                  "name": "Draw a spring drawing and post it on your page."
+                },
+		{
+                  "name": "Remember what you associate spring with and write on your social network."
+                }
             ]
         }
     ]
