@@ -1,66 +1,234 @@
 {
-    "challenges":[
-        {
-            "challenge_name_ru": "Весенний челлендж",
-            "challenge_name_en": "Spring Challenge",
-            "tasks_ru":[
-                {
-                  "name": "Приготовь весенние вкусняшки, поделись рецептом у себя в социальной сети."
-                },
-				{
-                  "name": "Опубликуй фотографию как ты провожаешь зиму, и встречаешь весну."
-                },
-				{
-                  "name": "Придумай стих, посвященный весне. Опубликуй у себя в социальной сети."
-                },
-				{
-                  "name": "Найди песню посвященную весне, спой, запиши на видео и опубликуй у себя в социальной сети."
-                },
-				{
-                  "name": "Расскажи всем что ты больше всего ждешь хорошего этой весной."
-                },
-				{
-                  "name": "Напиши статус в социальной сети: зима уходи, весна приходи!"
-                },
-				{
-                  "name": "Запиши видео на десяти языках: Весна я люблю тебя!. И опубликуй у себя в социальной сети."
-                },
-				{
-                  "name": "Нарисуй рисунок посвященный весне, и опубликуй у себя на странице."
-                },
-				{
-                  "name": "Вспомни, с чем хорошим у тебя ассоциируется весна и напиши у себя в социальной сети."
-                }
-            ],
-            "tasks_en":[
-                {
-                  "name": "Make spring treats, share the recipe on your social network."
-                },
-		{
-                  "name": "Post a photo of you saying goodbye to winter and welcoming spring."
-                },
-		{
-                  "name": "Make up a poem about spring. Post it on your social network."
-                },
-		{
-                  "name": "Find a song dedicated to spring, sing it, record it on video and post it on your social network."
-                },
-		{
-                  "name": "Tell everyone what you're most looking forward to this spring."
-                },
-		{
-                  "name": "Write a status on the social network: winter is gone, spring is coming!"
-                },
-		{
-                  "name": "Record a video in ten languages: Spring I love you!. And post it on your social network."
-                },
-		{
-                  "name": "Draw a spring drawing and post it on your page."
-                },
-		{
-                  "name": "Remember what you associate spring with and write on your social network."
-                }
-            ]
-        }
-    ]
+  "challenges": [
+    {
+      "challenge_name_ru": "Пасхальный Мир Добрых Посланий",
+      "challenge_name_en": "Easter Peace Kindness Missions",
+      "tasks_ru": [
+        {"name": "Создать голубя мира из бумаги и подарить соседу"},
+        {"name": "Написать письмо мира детям другой страны"},
+        {"name": "Сделать браслет дружбы из ниток 5 цветов флагов"},
+        {"name": "Нарисовать плакат «Дети за мир» мелом на асфальте"},
+        {"name": "Устроить чаепитие с традиционными угощениями 3 культур"},
+        {"name": "Создать коллаж «Улыбки разных народов» из журналов"},
+        {"name": "Выучить приветствия на 5 языках и записать видео"},
+        {"name": "Сделать куклу в национальном костюме из лоскутков"},
+        {"name": "Написать стих «МИРОВАЯВЕСНА»"},
+        {"name": "Создать карту мира с добрыми пожеланиями"},
+        {"name": "Сплести венок из веток с лентами цветов флагов"},
+        {"name": "Сделать открытки для дома престарелых"},
+        {"name": "Посадить цветок в форме сердца во дворе"},
+        {"name": "Создать танец дружбы и научить друзей"},
+        {"name": "Смастерить кормушку в виде земного шара"},
+        {"name": "Устроить флешмоб «Обнимашки через границы»"},
+        {"name": "Сделать капсулу времени с пожеланиями будущему"},
+        {"name": "Нарисовать комикс про путешествие голубя мира"},
+        {"name": "Создать азбуку мира с рисунками-символами"},
+        {"name": "Сделать гирлянду из флажков 10 стран"},
+        {"name": "Устроить выставку камней, раскрашенных как страны"},
+        {"name": "Создать книжку-раскраску «Народы мира»"},
+        {"name": "Смастерить паспорт путешественника со штампами"},
+        {"name": "Спеть песню мира на мелодию «Оды к радости»"},
+        {"name": "Сделать эко-плакат из переработанных материалов"},
+        {"name": "Создать лабиринт мира из картона и шарика"},
+        {"name": "Устроить Олимпиаду дружбы с самодельными медалями"},
+        {"name": "Сделать калейдоскоп с элементами разных культур"},
+        {"name": "Написать послание инопланетянам о земной дружбе"},
+        {"name": "Создать театр теней про историю примирения"},
+        {"name": "Сделать медали «Юный миротворец» из фольги"},
+        {"name": "Нарисовать планету Земля на старом глобусе"},
+        {"name": "Создать игру «Путешествие по континентам»"},
+        {"name": "Сделать фонарик мира из банки и светодиодов"},
+        {"name": "Устроить парад кукол в национальных костюмах"},
+        {"name": "Создать альбом «Традиции народов мира»"},
+        {"name": "Сделать маски животных из Красной книги"},
+        {"name": "Написать рассказ про супергероя-миротворца"},
+        {"name": "Создать пазл «Дети разных народов»"},
+        {"name": "Сделать эко-медальоны с семенами цветов"},
+        {"name": "Устроить конкурс рисунков на заборе"},
+        {"name": "Создать «дерево желаний» с записками"},
+        {"name": "Сделать мобиль с бумажными голубями"},
+        {"name": "Написать песню о дружбе на 3 языках"},
+        {"name": "Создать карту звёздного неба мира"},
+        {"name": "Сделать кубик-лото «Национальные блюда»"},
+        {"name": "Устроить выставку «Мир глазами детей»"},
+        {"name": "Создать азбуку жестов дружбы"},
+        {"name": "Сделать капкейки с флагами стран"},
+        {"name": "Создать танец дождя с зонтиками"}
+      ],
+      "tasks_en": [
+        {"name": "Create paper peace dove for neighbor"},
+        {"name": "Write peace letter to kids abroad"},
+        {"name": "Make 5-flag friendship bracelet"},
+        {"name": "Draw «Kids for Peace» chalk mural"},
+        {"name": "Host multicultural tea party"},
+        {"name": "Create «World Smiles» collage"},
+        {"name": "Learn greetings in 5 languages"},
+        {"name": "Make national costume doll"},
+        {"name": "Write «WORLDSPRING» acrostic poem"},
+        {"name": "Create world map with wishes"},
+        {"name": "Weave flag-colored branch wreath"},
+        {"name": "Make cards for nursing home"},
+        {"name": "Plant heart-shaped flower garden"},
+        {"name": "Invent friendship dance"},
+        {"name": "Build globe-shaped bird feeder"},
+        {"name": "Organize «Hug Across Borders»"},
+        {"name": "Make time capsule with hopes"},
+        {"name": "Draw peace dove comic"},
+        {"name": "Create peace symbol alphabet"},
+        {"name": "Make 10-country flag garland"},
+        {"name": "Paint stones as countries"},
+        {"name": "Create «World Cultures» coloring book"},
+        {"name": "Make traveler's passport"},
+        {"name": "Sing peace song to «Ode to Joy»"},
+        {"name": "Craft eco-poster from recyclables"},
+        {"name": "Build cardboard globe maze"},
+        {"name": "Host Friendship Olympics"},
+        {"name": "Make cultural kaleidoscope"},
+        {"name": "Write alien friendship message"},
+        {"name": "Create reconciliation shadow play"},
+        {"name": "Make «Peacekeeper» foil medals"},
+        {"name": "Repaint old globe with Earth"},
+        {"name": "Design «Continents Journey» game"},
+        {"name": "Craft jar lantern with LEDs"},
+        {"name": "Organize doll cultural parade"},
+        {"name": "Make «World Traditions» album"},
+        {"name": "Create endangered animal masks"},
+        {"name": "Write peace superhero story"},
+        {"name": "Make «World Kids» puzzle"},
+        {"name": "Craft seed flower medals"},
+        {"name": "Host fence art competition"},
+        {"name": "Build wish tree with notes"},
+        {"name": "Make dove mobile"},
+        {"name": "Write multilingual friendship song"},
+        {"name": "Create starry sky map"},
+        {"name": "Make «National Foods» dice"},
+        {"name": "Organize «Kids' World View» exhibit"},
+        {"name": "Invent friendship sign alphabet"},
+        {"name": "Bake country flag cupcakes"},
+        {"name": "Create umbrella rain dance"}
+      ]
+    },
+    {
+      "challenge_name_ru": "Весенние Открытия Приключения",
+      "challenge_name_en": "Spring Discoveries Adventures",
+      "tasks_ru": [
+        {"name": "Собрать коллекцию разных форм листьев"},
+        {"name": "Сделать фото первого подснежника"},
+        {"name": "Построить плотину из веточек в ручье"},
+        {"name": "Создать дневник наблюдений за облаками"},
+        {"name": "Смастерить лупу из пластиковой бутылки"},
+        {"name": "Нарисовать карту весенних ароматов"},
+        {"name": "Сделать кораблик из коры дерева"},
+        {"name": "Устроить пикник для птиц с семечками"},
+        {"name": "Создать солнечные часы из CD-диска"},
+        {"name": "Собрать гербарий первых цветов"},
+        {"name": "Сделать браслет из одуванчиков"},
+        {"name": "Найти 5 разных камней с узорами"},
+        {"name": "Создать дождевой музыкальный инструмент"},
+        {"name": "Слепить лесных зверей из глины"},
+        {"name": "Сделать фотосессию с лужами"},
+        {"name": "Нарисовать мелом цепочку следов животных"},
+        {"name": "Создать ветряную вертушку из бумаги"},
+        {"name": "Сделать кормушку из шишки"},
+        {"name": "Найти гнездо птицы (не трогая его)"},
+        {"name": "Создать коллекцию весенних звуков"},
+        {"name": "Сделать рамку для фото из веток"},
+        {"name": "Нарисовать карту весенних луж"},
+        {"name": "Создать домик для жуков"},
+        {"name": "Сделать штампы из листьев"},
+        {"name": "Устроить конкурс на лучший бумажный самолет"},
+        {"name": "Создать калейдоскоп из фольги"},
+        {"name": "Сделать флюгер из пластиковой тарелки"},
+        {"name": "Найти 5 разных цветов за день"},
+        {"name": "Создать дневник дождя"},
+        {"name": "Сделать ароматные мешочки с травами"}
+      ],
+      "tasks_en": [
+        {"name": "Collect different shaped leaves"},
+        {"name": "Photograph first snowdrop"},
+        {"name": "Build stick dam in stream"},
+        {"name": "Create cloud watching diary"},
+        {"name": "Make plastic bottle magnifier"},
+        {"name": "Draw spring scent map"},
+        {"name": "Craft bark boat"},
+        {"name": "Host bird picnic with seeds"},
+        {"name": "Make CD sundial"},
+        {"name": "Create first flowers herbarium"},
+        {"name": "Make dandelion bracelet"},
+        {"name": "Find 5 patterned stones"},
+        {"name": "Create rain musical instrument"},
+        {"name": "Sculpt forest animals from clay"},
+        {"name": "Do puddle photoshoot"},
+        {"name": "Draw animal tracks with chalk"},
+        {"name": "Make paper pinwheel"},
+        {"name": "Craft pinecone feeder"},
+        {"name": "Find bird nest (without touching)"},
+        {"name": "Collect spring sounds"},
+        {"name": "Make photo frame from sticks"},
+        {"name": "Draw puddle map"},
+        {"name": "Build bug hotel"},
+        {"name": "Make leaf stamps"},
+        {"name": "Host paper plane contest"},
+        {"name": "Create foil kaleidoscope"},
+        {"name": "Make plate weather vane"},
+        {"name": "Find 5 different flowers daily"},
+        {"name": "Create rain diary"},
+        {"name": "Make herbal sachets"}
+      ]
+    },
+    {
+      "challenge_name_ru": "Летняя Лаборатория Эксперименты",
+      "challenge_name_en": "Summer Lab Experiments",
+      "tasks_ru": [
+        {"name": "Создать радугу с помощью шланга"},
+        {"name": "Сделать лимонадный вулкан"},
+        {"name": "Построить мост из спагетти"},
+        {"name": "Сделать невидимые чернила"},
+        {"name": "Провести опыт с плавающим яйцом"},
+        {"name": "Сделать парашют для игрушки"},
+        {"name": "Провести опыт с цветными льдинками"},
+        {"name": "Создать водяные часы"},
+        {"name": "Вырастить плесень на хлебе"},
+        {"name": "Создать мини-компас"},
+        {"name": "Сделать торнадо в бутылке"},
+        {"name": "Провести опыт с радужным молоком"},
+        {"name": "Создать бумажный вертолет"},
+        {"name": "Провести опыт с прыгающей монетой"},
+        {"name": "Создать облако в банке"},
+        {"name": "Сделать краски из ягод"},
+        {"name": "Провести опыт с надуванием шарика дрожжами"},
+        {"name": "Создать фильтр для воды"},
+        {"name": "Сделать гирлянду из проводящего пластилина"},
+        {"name": "Создать бумажный мост"},
+        {"name": "Провести опыт с танцующим изюмом"},
+        {"name": "Создать калейдоскоп"},
+        {"name": "Сделать неньютоновскую жидкость"}
+      ],
+      "tasks_en": [
+        {"name": "Create hose rainbow"},
+        {"name": "Make lemonade volcano"},
+        {"name": "Build spaghetti bridge"},
+        {"name": "Make invisible ink"},
+        {"name": "Experiment with floating egg"},
+        {"name": "Make toy parachute"},
+        {"name": "Experiment with colored ice cubes"},
+        {"name": "Build water clock"},
+        {"name": "Grow bread mold"},
+        {"name": "Create mini compass"},
+        {"name": "Make bottle tornado"},
+        {"name": "Experiment with rainbow milk"},
+        {"name": "Craft paper helicopter"},
+        {"name": "Experiment with jumping coin"},
+        {"name": "Create cloud in jar"},
+        {"name": "Make berry paints"},
+        {"name": "Experiment with yeast balloon"},
+        {"name": "Build water filter"},
+        {"name": "Make conductive playdough circuit"},
+        {"name": "Build paper bridge"},
+        {"name": "Experiment with dancing raisins"},
+        {"name": "Create kaleidoscope"},
+        {"name": "Make non-Newtonian fluid"}
+      ]
+    }
+  ]
 }
